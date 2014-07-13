@@ -88,3 +88,12 @@ near;there	allí
 pool;pond	estanque
 prophets	profetas
 hour;time	hora
+came	fué
+same	este
+shines	resplandece
+what	Qué
+john	juan
+these	estas
+wrote	escribió
+is	es
+witness	testimonio
