@@ -1,0 +1,1699 @@
+April  ; Apr	abril	time
+August  ; Aug	agosto	time
+China  ; People's Republic of China  ; mainland China  ; Communist China  ; Red China  ; PRC  ; Cathay	China	country
+Chinese	chino	language
+Czech Republic	República Checa	country
+December  ; Dec	diciembre	time
+Earth  ; earth  ; world  ; globe	globo ; mundo ; tierra	geography
+English  ; English language	inglés	language
+February  ; Feb	febrero	time
+France  ; French Republic	República Francesa	country
+French	francés  ; francés	language
+Friday  ; Fri	viernes	time
+German  ; High German  ; German language	alemán	language
+Germany  ; Federal Republic of Germany  ; Deutschland  ; FRG	República Federal de Alemania	country
+Hindi	hindi	language
+I don't know	no sé	conversation
+I don't understand	no entiendo	conversation
+India  ; Republic of India  ; Bharat	República de la India	country
+Italian	italiano	language
+Italy  ; Italian Republic  ; Italia	Italia	country
+January  ; Jan	enero	time
+Japan  ; Nippon  ; Nihon	Japón	country
+Japanese	japonés	language
+July	julio	time
+June	junio	time
+May	mayo	time
+Monday  ; Mon	lunes	time
+Moon  ; moon	luna	geography
+November  ; Nov	noviembre	time
+October  ; Oct	octubre	time
+Russian	ruso	language
+Saturday  ; Sabbatum  ; Sat	sábado	time
+September  ; Sep  ; Sept	septiembre	time
+Spain  ; Kingdom of Spain  ; Espana	Reino de España	country
+Spanish	castellano ; español	language
+Sunday  ; Lord's Day  ; Dominicus  ; Sun	domingo	time
+Thursday  ; Th	jueves	time
+Tuesday  ; Tues	martes	time
+United Kingdom  ; UK  ; U.K.  ; Britain  ; United Kingdom of Great Britain and Northern Ireland  ; Great Britain	Reino Unido	country
+United States  ; United States of America  ; America  ; the States  ; US  ; U.S.  ; USA  ; U.S.A.	Estados Unidos	country
+Wednesday  ; Midweek  ; Wed	miércoles	time
+a  ; an	un	article
+ability  ; power	capacidad ; ingenio ; poder	abstract
+able	capaz	adjective-people
+about  ; around	alrededor	adverb
+above  ; higher up  ; in a higher place  ; to a higher place	encima de	adverb
+accept  ; take  ; have	aceptar ; querer ; alojar	verb
+accident	accidente	transport
+account  ; business relationship	cuenta	business
+accuse  ; charge	acusar	verb
+achieve  ; accomplish  ; attain  ; reach	alcanzar ; lograr	verb
+acid	ácido	adjective
+acid	ácido ; agrio	material
+acid rain  ; acid precipitation	lluvia ácida	environment
+act  ; deed  ; human action  ; human activity	acción ; acto	abstract
+act  ; move	actuar ; hacer ; representar	verb
+action	acción ; acto ; hecho	abstract
+activity  ; action  ; activeness	acción ; actividad	abstract
+actor  ; histrion  ; player  ; thespian  ; role player	actor ; intérprete ; farandulero ; cómico	profession
+actress	actriz	profession
+add	agregar ; añadir	verb
+add  ; add together	sumar	verb
+addition  ; add-on  ; improver	adición	abstract
+addition  ; summation  ; plus	suma	mathematics
+address	dirección ; ubicación	house
+admit  ; acknowledge	admitir ; reconocer	verb
+advantage  ; vantage	superioridad ; ventaja	business
+advertisement  ; ad  ; advertizement  ; advertising  ; advertizing  ; advert	anuncio ; cartel ; letrero	business
+advice	advertencia ; consejo	business
+affect  ; impact  ; bear upon  ; bear on  ; touch on  ; touch	afectar ; conmover	verb
+after	acerca de	adjective
+afternoon	tarde	time
+again  ; once again  ; once more  ; over again	otra vez	adverb
+against	contra	preposition
+age	edad	time
+ago  ; agone	hace	adjective
+agree  ; hold  ; concur  ; concord	coincidir ; consentir	verb
+agreement  ; understanding	acuerdo ; pacto ; contrato	business
+air	aire	nature
+airport  ; airdrome  ; aerodrome  ; drome	aeropuerto ; aeródromo	city
+alive  ; live	vivo	adjective-people
+all	todo	adjective
+allow  ; let  ; permit	dejar ; permitir	verb
+almost  ; about  ; most  ; nearly  ; near  ; nigh  ; virtually  ; well-nigh	casi  ; aproximadamente	adverb
+alone  ; lone  ; lonely  ; solitary	solitario	adjective-people
+along	a lo largo de ; junto con	adverb
+already	ya	adverb
+always  ; ever  ; e'er	siempre	adverb
+among  ; amongst  ; amid  ; amidst	en medio de	preposition
+amount	cantidad ; cuantía	abstract
+and	más	conjunction
+angle	ángulo	mathematics
+angry	airado	adjective-people
+animal  ; animate being  ; beast  ; brute  ; creature  ; fauna	animal ; bestia ; criatura	nature
+announce  ; denote	anunciar ; proclamar	verb
+announcement  ; proclamation  ; annunciation  ; declaration	anuncio ; proclamación	communication
+another  ; some other	diferente ; distinto	adjective-basic
+answer  ; reply  ; response	respuesta	communication
+ant  ; emmet  ; pismire	hormiga	animal
+any  ; whatever  ; whatsoever	cualquier	adjective
+anyone	cualquiera	pronoun
+apple	manzana	fruit
+approval  ; blessing  ; approving	aprobación ; aceptación ; adhesión ; consentimiento ; consenso	communication
+approximately  ; about  ; close to  ; just about  ; some  ; roughly  ; more or less  ; around  ; or so	aproximadamente	adverb
+apricot	damasco	fruit
+area  ; expanse  ; surface area	área ; superficie	mathematics
+argue  ; contend  ; debate  ; fence	debatir ; discutir	verb
+argument  ; controversy  ; contention  ; contestation  ; disputation  ; disceptation  ; tilt  ; arguing	discusión ; disputa ; pelea	communication
+argument  ; statement	argumento	communication
+arm	brazo	anatomy
+army  ; regular army  ; ground forces	ejército ; tropa	society
+arrive  ; make it  ; get in  ; go far	llegar  ; arribar	verb
+art  ; fine art	arte	art
+artist  ; creative person	artista	art
+ask  ; inquire  ; enquire	preguntar ; solicitar ; interrogar ; averiguar	verb
+at	a	preposition
+at	a	preposition
+atmosphere  ; air	aire ; atmósfera	environment
+attack  ; assail  ; assault  ; set on	asaltar ; atacar	verb
+attack  ; onslaught  ; onset  ; onrush	asalto ; ataque	abstract
+attempt  ; effort  ; endeavor  ; endeavour  ; try	intento ; tentativa ; prueba ; ensayo ; experimento	abstract
+attention  ; attending	atención	business
+attitude  ; mental attitude	actitud ; disposición ; postura	abstract
+authority  ; authorization  ; authorisation  ; potency  ; dominance  ; say-so	autoridad ; dominación ; dominio ; poder ; potencia ; autorización	business
+automatic	automático	adjective
+autumn  ; fall	otoño	time
+available	disponible	adjective
+avoid	evitar ; excusar ; prevenir	verb
+awake	despierto	adjective-people
+award  ; accolade  ; honor  ; honour  ; laurels	honor ; laurel ; premio ; reconocimiento	sports
+baby  ; babe  ; infant	criatura	family
+back	espalda	abstract
+back  ; dorsum	espalda ; dorso	anatomy
+bad	malo	adjective-basic
+bag	bolsa ; bolso	container
+bag  ; handbag  ; pocketbook  ; purse	bolso	clothes
+balance	equilibrio	physics
+ball	balón ; pelota	sports
+banana	plátano	fruit
+band  ; dance band  ; dance orchestra	banda	art
+bank	margen ; orilla ; vera	geography
+bank  ; depository financial institution  ; banking concern  ; banking company	banco	city
+banknote  ; bill  ; note  ; government note  ; bank bill  ; banker's bill  ; bank note  ; Federal Reserve note  ; greenback	billete	business
+bargain  ; deal	pacto ; trato	business
+base  ; base of operations	base	society
+baseball  ; baseball game	béisbol	sports
+basic	básico ; basilar	adjective-basic
+basket  ; handbasket	cesto ; aro ; cesta	container
+bathroom  ; bath	baño	house
+be	ser	verb-basic
+be  ; live	durar ; existir ; vivir	verb
+beach	playa	geography
+beak  ; bill  ; neb  ; nib  ; pecker	pico	anatomy
+bean  ; edible bean	alubia ; judía	vegetable
+bear	llevar ; traer	verb
+bear	oso	animal
+beat  ; beat out  ; crush  ; shell  ; trounce  ; vanquish	vencer	verb
+beautiful	bello ; bonito ; hermoso ; precioso ; espléndido	adjective-basic
+because	porque	conjunction
+become  ; go  ; get	convertirse	verb
+bed	cama	furniture
+bedroom  ; sleeping room  ; sleeping accommodation  ; chamber  ; bedchamber	alcoba ; dormitorio ; habitación ; pieza ; cuarto ; dependencia	house
+bee	abeja	animal
+beer	cerveza	drink
+before  ; ahead  ; in front	adelante	adverb
+before  ; earlier	antes	adverb
+begin  ; start  ; get down  ; get  ; start out  ; set about  ; set out  ; commence	comenzar ; empezar ; iniciar	verb-basic
+beginning  ; commencement  ; first  ; outset  ; get-go  ; start  ; kickoff  ; starting time  ; showtime  ; offset	comienzo ; inicio ; principio ; umbral	time
+behave  ; acquit  ; bear  ; deport  ; conduct  ; comport  ; carry	funcionar	verb
+behavior  ; demeanor  ; demeanour  ; behaviour  ; conduct  ; deportment	comportamiento ; conducta	abstract
+behind	detrás	adverb
+believe	considerar ; creer ; confiar	verb
+bell	campana	tool
+benefit  ; do good	beneficiar	verb
+beside	además de	preposition
+best	mejor	adjective-basic
+better	mejor	adjective-basic
+between  ; betwixt	entre	adverb
+beyond	tras ; détras de ;	adverb
+big  ; large	gran ; grande ; voluminoso	adjective-basic
+bike  ; bicycle  ; wheel  ; cycle	bicicleta	sports
+biology  ; biological science	biología	science
+bird	ave ; pájaro	animal
+birth  ; nativity  ; nascency  ; nascence	nacimiento	family
+birthday	cumpleaños	family
+bit  ; chip  ; flake  ; fleck  ; scrap	átomo ; pedazo ; pizca ; viruta	abstract
+bite  ; seize with teeth	morder	verb
+bitter	amargo	adjective
+black	negro	color
+blackberry	mora	fruit
+blade	hoja ; cuchilla	object
+blood	sangre	anatomy
+blow	golpe ; impacto	abstract
+blue  ; bluish  ; blueish	azul	color
+board	tabla ; tablero	object
+boat	barca	transport
+body  ; torso  ; trunk	tronco	anatomy
+bone  ; os	hueso	anatomy
+book  ; volume	ejemplar ; libro ; volumen	communication
+boot	bota	clothes
+boring  ; deadening  ; dull  ; ho-hum  ; irksome  ; slow  ; tedious  ; tiresome  ; wearisome	gris ; aburridor	adjective
+both	ambos	adjective
+bottle	botella	container
+box	caja ; cajita	container
+boy  ; male child	chaval ; chico ; garzón ; joven ; mozo ; muchacho ; niño	family
+boyfriend  ; fellow  ; beau  ; swain  ; young man	compañero ; novio ; pareja	relations
+brain  ; encephalon	cerebro	anatomy
+branch	rama	nature
+brand  ; make	marca	business
+bread  ; breadstuff  ; staff of life	pan	food
+break	partir ; quebrar ; romper ; destrozar	verb-basic
+break  ; respite  ; recess  ; time out	descanso ; pausa ; respiro	abstract
+breakfast	almuerzo ; desayuno	food
+breath	aliento ; respiración ; ánimo ; soplo ; anhelo	anatomy
+brick	ladrillo	house
+bridge  ; span	puente	city
+bright  ; brilliant  ; vivid	brillante ; vivo	adjective
+bring  ; convey  ; take	acarrear ; llevar ; traer ; transportar	verb
+broken	roto	adjective
+brother  ; blood brother	hermano ; colega	family
+brown  ; brownish  ; chocolate-brown  ; dark-brown	marrón	color
+brush	cepillo	art
+build  ; construct  ; make	construir ; edificar ; fabricar	verb
+building  ; edifice	edificio	city
+burn  ; fire  ; burn down	arder ; incendiar ; quemar	verb
+bus  ; autobus  ; coach  ; charabanc  ; double-decker  ; jitney  ; motorbus  ; motorcoach  ; omnibus  ; passenger vehicle	autobús ; colectivo ; camión	transport
+business  ; concern  ; business concern  ; business organization  ; business organisation	negocio	business
+businessman  ; man of affairs	empresario ; comerciante	profession
+businesswoman	mujer de negocios ; mujer empresaria	business
+butter	mantequilla	food
+button  ; push button  ; push	botón ; tecla	tool
+buy  ; purchase	adquirir ; comprar	verb-basic
+by  ; past	por	adverb
+cabbage  ; chou	repollo	vegetable
+cake	pastel	food
+call  ; phone call  ; telephone call	llamada	communication
+call  ; telephone  ; call up  ; phone  ; ring	llamar ; telefonear	verb
+camera  ; photographic camera	cámara	device
+campaign  ; cause  ; crusade  ; drive  ; movement  ; effort	campaña ; movimiento	abstract
+can  ; tin  ; tin can	bote ; lata ; frasco	container
+capital	capital	city
+capital  ; working capital	capital	business
+car  ; auto  ; automobile  ; machine  ; motorcar	auto ; automóvil ; coche ; turismo ; carro ; cacharro	transport
+card	carta	object
+care	importar ; concernirse ; interesarse ; ser compasivo	verb
+care  ; attention  ; aid  ; tending	atención ; cuidado	medicine
+carpet  ; rug  ; carpeting	alfombra ; tapete ; tapiz ; moqueta	furniture
+carrot  ; cultivated carrot  ; Daucus carota sativa	zanahoria	vegetable
+carry  ; transport	cargar ; transportar	verb
+case  ; instance  ; example	caso	abstract
+castle	castillo	city
+cat  ; true cat	gato	animal
+catch  ; grab  ; take hold of	cazar	verb
+cause	causa	science
+cause  ; induce  ; stimulate  ; have  ; get  ; make	causar ; hacer ; inducir	verb
+cell	célula ; cámara	anatomy
+cellphone  ; cellular telephone  ; cellular phone  ; cell  ; mobile phone	móvil  ; celular	device
+center  ; centre  ; midpoint	centro	mathematics
+center  ; kernel  ; substance  ; core  ; centre  ; essence  ; gist  ; heart  ; heart and soul  ; inwardness  ; marrow  ; meat  ; nub  ; pith  ; sum  ; nitty-gritty	centro ; corazón ; esencia ; núcleo ; sustancia	science
+central	central	adjective
+century	siglo	time
+certain  ; sure	seguro ; cierto	adjective
+chain	cadena	object
+chair	silla	furniture
+championship  ; title	campeonato	sports
+chance  ; opportunity	ocasión ; oportunidad	abstract
+change	cambio	business
+change  ; alter  ; modify	alterar ; cambiar	verb
+change  ; alteration  ; modification	alteración ; cambio ; modificación ; variación	abstract
+character  ; grapheme  ; graphic symbol	carácter	communication
+charge  ; electric charge	carga	physics
+cheap  ; inexpensive	barato	adjective
+check  ; bank check  ; cheque	talón ; cheque	business
+cheers	salud	conversation
+cheese	queso	food
+chemical  ; chemic	químico	adjective
+chemical  ; chemical substance	sustancia química	material
+chemical element  ; element	elemento	material
+chemistry  ; chemical science	química	science
+cherry	cereza	fruit
+chest  ; breast	pecho	anatomy
+chest  ; thorax  ; pectus	tórax	anatomy
+child  ; kid	hija ; hijo	family
+chin  ; mentum	barba ; barbilla	anatomy
+chocolate	chocolate	food
+choice  ; selection  ; option  ; pick	elección ; selección ; decisión	abstract
+choose  ; take  ; select  ; pick out	coger ; escoger ; seleccionar ; preferir	verb
+church  ; church building	iglesia	city
+cinema  ; movie theater  ; movie theatre  ; movie house  ; picture palace	cine ; biógrafo	city
+circle	círculo	mathematics
+city  ; metropolis  ; urban center	ciudad ; metrópolis	city
+class  ; form  ; grade  ; course	clase ; curso ; sección	education
+classify  ; class  ; sort  ; assort  ; sort out  ; separate	clasificar ; separar ; organizar	verb
+clean	limpio ; nítido ; pobre	adjective-basic
+clean  ; make clean	limpiar ; pulir	verb
+clear	claro	adjective
+clearly	claramente ; desnudamente ;claramente ; evidentemente ; obviamente ; ostensiblemente	adverb
+climate change  ; global climate change	cambio climático	environment
+clock	reloj	device
+close  ; shut	cerrar ; tapar ; cercar	verb-basic
+closed  ; shut  ; unopen	cerrado	adjective
+cloth  ; fabric  ; material  ; textile	paño ; tejido ; tela ; trapo ; red	clothes
+clothing  ; article of clothing  ; vesture  ; wear  ; wearable  ; habiliment	vestido  ; prenda  ; ropa	clothes
+cloud	nube	weather
+club	mazo  ; garrote  ; maza	object
+club  ; social club  ; society  ; guild  ; gild  ; lodge  ; order	asociación ; club ; clube ; sociedad ; círculo	society
+coal	carbón	material
+coat	chaqueta	clothes
+coffee  ; java	café	drink
+coil  ; whorl  ; roll  ; curl  ; curlicue  ; ringlet  ; gyre  ; scroll	rollo	object
+cold	frío ; helado	adjective-basic
+cold  ; common cold	resfriado	medicine
+collar  ; neckband	cuello	clothes
+color  ; colour	de color ; en colores ; colores	adjective
+color  ; colour  ; coloring material  ; colouring material	color	art
+come  ; come up	llegar ; venir	verb-basic
+committee  ; commission	comisión ; comité ; delegación	business
+common	común	adjective
+common  ; mutual	común ; mutuo ; corriente ; ordinario ; general	adjective
+company	compañía	business
+company  ; companionship  ; fellowship  ; society	comitiva	society
+compare	comparar	verb
+comparison  ; comparing	confrontación	science
+competition	competencia  ; rivalidad	business
+competitor  ; rival  ; challenger  ; competition  ; contender	adversario ; rival	sports
+complaint  ; charge	cargo	business
+complete  ; consummate	completo	adjective
+component  ; constituent  ; element  ; factor  ; ingredient	componente ; elemento ; factor	mathematics
+computer  ; computing machine  ; computing device  ; data processor  ; electronic computer  ; information processing system	ordenador	device
+concert	concierto	art
+condition  ; status	condición ; situación	abstract
+connect  ; associate  ; tie in  ; relate  ; link  ; colligate  ; link up	conectar ; acoplar ; empalmar ; encadenar ; unir ; asociar ; relacionar ; estar conectado ; hacer conexión ;	verb
+connection  ; connexion  ; connectedness	conexión	abstract
+connection  ; connexion  ; connector  ; connecter  ; connective	conexión	abstract
+conscious  ; witting	consciente	adjective
+consequence  ; effect  ; outcome  ; result  ; event  ; issue  ; upshot	consecuencia ; efecto ; resultado ; corolario ; secuela ; conclusión	science
+contain  ; incorporate  ; comprise	contener ; incluir ; integrar	verb
+contest  ; competition	campeonato ; competición ; concurso	business
+continue  ; go on  ; proceed  ; go along  ; keep	continuar ; avanzar	verb
+contract	contrato	business
+control	control ; mando ; poder	science
+control  ; command	controlar	verb
+cook	cocinero	kitchen
+cook	preparar ; cocer	verb
+copy	copia	business
+copy  ; re-create	copiar ; recrear	verb
+correct  ; right	acertado ; correcto	adjective-basic
+cost	coste ; costo	business
+cotton	algodón	material
+cough	toser	verb
+cough  ; coughing	tos	medicine
+council	consejo	business
+country  ; state  ; land	estado ; nación ; país ; tierra	society
+couple  ; pair  ; twosome  ; twain  ; brace  ; span  ; yoke  ; couplet  ; distich  ; duo  ; duet  ; dyad  ; duad	par ; pareja	number
+course  ; class  ; course of study  ; course of instruction	clase ; curso	business
+court  ; tribunal  ; judicature	juzgado ; tribunal	society
+cover  ; screen  ; covert  ; concealment	pantalla	object
+cow  ; moo-cow	vaca	animal
+crack  ; cleft  ; crevice  ; fissure  ; scissure	grieta	abstract
+crime  ; offense  ; criminal offense  ; criminal offence  ; offence  ; law-breaking	crimen ; delito	society
+cruel  ; barbarous  ; brutal  ; fell  ; roughshod  ; savage  ; vicious	atroz ; bárbaro ; brutal ; cruel ; salvaje	adjective
+crush	aplastar	verb
+crush  ; crunch  ; compaction	estrujamiento	abstract
+crush  ; squash  ; squelch  ; mash  ; squeeze	aplastar ; machacar	verb
+cry  ; outcry  ; call  ; yell  ; shout  ; vociferation	grito ; protesta ; alarido	communication
+cry  ; weep	llorar	verb
+cucumber  ; cuke	pepino	vegetable
+culture  ; civilization  ; civilisation	civilización ; cultura ; conocimiento ; ilustración	society
+cup	taza	container
+cup  ; loving cup	copa	sports
+cupboard  ; closet	armario	furniture
+current	vigente	adjective
+current  ; stream	corriente ; actual	geography
+curtain  ; drape  ; drapery  ; mantle  ; pall	cortina	furniture
+curve  ; bend	curva	transport
+curve  ; curved shape	curva ; arco	mathematics
+customer  ; client	cliente	business
+cut	cortar	verb-basic
+cut  ; cutting	corte ; tajo	abstract
+dainty  ; nice  ; overnice  ; prissy  ; squeamish	quisquilloso	adjective
+damage  ; harm  ; impairment	daño ; perjuicio ; siniestro ; deterioro	abstract
+dance  ; trip the light fantastic  ; trip the light fantastic toe	bailar ; saltar	verb-basic
+danger	peligro ; riesgo	abstract
+dangerous  ; unsafe	peligroso	adjective
+dark	oscuro ; sombrío ; misterioso	adjective-basic
+data  ; information	datos	communication
+date  ; appointment  ; engagement	compromiso ; cita	relations
+date  ; day of the month	fecha	time
+daughter  ; girl	hija	family
+day  ; twenty-four hours  ; twenty-four hour period  ; 24-hour interval  ; solar day  ; mean solar day	día	time
+dead	muerto ; difunto	adjective-people
+dear  ; beloved  ; dearest  ; honey  ; love	amor ; cariño ; cielo ; corazón ; sol ; dulzura ; querida	relations
+death	muerte	family
+death  ; decease  ; expiry	desaparición ; muerte ; tránsito	abstract
+decide  ; make up one's mind  ; determine	decidir ; determinar	verb
+decision  ; determination  ; conclusion	decisión ; determinación ; resolución ; resultado	communication
+decoration  ; ornament  ; ornamentation	adorno ; decoración	abstract
+deep	profundo ; ahuecado ; grave ; hondo ; abstruso ; intenso	adjective-basic
+defense  ; defence  ; defense force  ; defence force	defensa ; guardia	abstract
+degree	grado	mathematics
+degree  ; grade  ; level	grado ; nivel	mathematics
+delicate	delicado	adjective
+deliver	entregar ; librar	verb
+demand  ; need	necesidad	business
+democracy  ; republic  ; commonwealth	democracia ; república	society
+department  ; section	departamento	business
+describe  ; depict  ; draw	describir ; explicar ; detallar	verb
+design  ; designing	diseño	art
+design  ; plan	diseñar	verb
+desire  ; want	desear ; querer	verb
+desk	mesa  ; escritorio	furniture
+destruction  ; devastation	destrucción	abstract
+detail  ; particular  ; item	elemento	abstract
+determine  ; check  ; find out  ; see  ; ascertain  ; watch  ; learn	averiguar ; determinar	verb
+develop	desarrollar	verb
+dew	rocío	weather
+dictionary  ; lexicon	diccionario ; léxico ; índice ; glosario	communication
+die  ; decease  ; perish  ; go  ; exit  ; pass away  ; expire  ; pass  ; kick the bucket  ; cash in one's chips  ; buy the farm  ; conk  ; give-up the ghost  ; drop dead  ; pop off  ; choke  ; croak  ; snuff it	expirar  ; fallecer  ; sucumbir	verb
+difference	diferencia ; desigualdad ; divergencia ; desemejanza	mathematics
+different	diferente	adjective
+different	diferente ; distinto	adjective
+different  ; unlike  ; dissimilar	diferente ; distinto	adjective
+difficult  ; hard	difícil ; duro ; espinoso	adjective-basic
+difficulty	dificultad ; obstáculo ; problema	business
+direction	camino ; curso ; dirección ; trayectoria	business
+directly  ; straight  ; direct	directamente	adverb
+director  ; manager  ; managing director	director	business
+dirty  ; soiled  ; unclean	sucio ; asqueroso	adjective-basic
+discipline  ; subject  ; subject area  ; subject field  ; field  ; field of study  ; study  ; bailiwick	ámbito ; área ; campo ; disciplina	science
+discover  ; find	descubrir	verb
+discovery  ; breakthrough  ; find	hallazgo	science
+discovery  ; find  ; uncovering	descubrimiento ; hallazgo	science
+discuss  ; hash out  ; talk over	discutir	verb
+discussion  ; give-and-take  ; word	debate ; discusión	communication
+disease	afección ; enfermedad	medicine
+dislike	desagradar ; caer mal ; desfavorecer ; disgustar ; displacer ; malquerer ; mirar con mala cara ; no gustar de ; odiar ; repugnar ; tener antipatía a ; tener aversión a ; tener tema a	verb
+distance	distancia	mathematics
+diversity  ; diverseness  ; multifariousness  ; variety	diversidad ; diferencia	art
+divide  ; split  ; split up  ; separate  ; dissever  ; carve up	dividir ; partir ; repartir ; separar	verb
+division  ; partition  ; partitioning  ; segmentation  ; sectionalization  ; sectionalisation	división ; partición	mathematics
+do  ; practice  ; practise  ; exercise	ejercer	verb-basic
+do you speak English	hablas inglés	conversation
+doctor  ; doc  ; physician  ; MD  ; Dr.  ; medico	doctor ; médico	medicine
+dog  ; domestic dog  ; Canis familiaris	perro	animal
+dominance  ; ascendance  ; ascendence  ; ascendancy  ; ascendency  ; control	dominación ; dominio ; sometimiento ; sumisión	abstract
+dominion  ; rule	autoridad ; dominio	society
+door	puerta ; hoja	house
+doubt	dudar	verb
+doubt  ; uncertainty  ; incertitude  ; dubiety  ; doubtfulness  ; dubiousness	duda ; incertidumbre ; inseguridad ; irresolución	communication
+down	abajo  ; debajo	adjective
+down  ; downwards  ; downward  ; downwardly	abajo	adverb
+drawer	cajón	container
+drink  ; beverage  ; drinkable  ; potable	bebida	drink
+drink  ; imbibe	beber ; tomar	verb-basic
+drive	conducir ; manejar	verb
+drop  ; drib  ; driblet	gota	abstract
+dry	seco	adjective
+dump  ; garbage dump  ; trash dump  ; rubbish dump  ; wasteyard  ; waste-yard  ; dumpsite	vaciadero	environment
+during	durante	preposition
+dust	polvo	material
+duty	deber	abstract
+each	cada	adjective
+ear	oído ; oreja	anatomy
+early	temprano	adjective
+early  ; early on	pronto	adverb
+earth  ; ground	tierra	material
+east  ; due east  ; eastward  ; E	este ; oriente ; levante	geography
+easy	fácil	adjective
+eat	comer	verb-basic
+ecology  ; bionomics  ; environmental science	ecología	environment
+economic	económico	adjective
+economic  ; economical	económico	adjective
+economy  ; economic system	economía	business
+edge  ; border	borde ; canto ; margen ; arista ; orilla	mathematics
+education	educación	education
+education	educación ; formación ; instrucción	education
+education  ; instruction  ; teaching  ; pedagogy  ; didactics  ; educational activity	educación ; enseñanza	education
+effort  ; elbow grease  ; exertion  ; travail  ; sweat	afán ; dedicación ; esfuerzo ; agotamiento	abstract
+egg	huevo ; óvulo	food
+eight  ; 8  ; viii	ocho	number
+eighteen  ; 18  ; xviii	dieciocho	number
+eighty  ; 80  ; lxxx  ; fourscore	ochenta	number
+either	cada	adverb
+election	elección	society
+electric  ; electrical	eléctrico	adjective
+elephant	elefante	animal
+elevator  ; lift	ascensor	device
+eleven  ; 11  ; xi	once	number
+embrace  ; encompass  ; comprehend  ; cover	comprender ; cubrir	verb
+encourage	animar  ; estimular	verb
+end  ; stop  ; finish  ; terminate  ; cease	acabar ; cesar ; concluir ; parar ; terminar	verb
+end  ; terminal	cabo ; final	time
+energy  ; free energy	energía	physics
+engine	motor	device
+enhance  ; heighten  ; raise	acrecentar	verb
+enjoy  ; bask  ; relish  ; savor  ; savour	disfrutar ; gustar	verb
+enough  ; plenty	bastante	adverb
+enter  ; come in  ; get into  ; get in  ; go into  ; go in  ; move into	entrar ; penetrar	verb
+entertainment  ; amusement	diversión  ; distracción  ; divertimiento	art
+entirely  ; exclusively  ; solely  ; alone  ; only	solitario	adverb
+envelope	sobre	container
+environment	entorno ; medio ; ambiente	business
+environment  ; environs  ; surroundings  ; surround	entorno	environment
+equal	igual	adjective
+equally  ; as  ; every bit	como	adverb
+establish  ; found  ; plant  ; constitute  ; institute	constituir ; instaurar ; fundar	verb
+estimate  ; gauge  ; approximate  ; guess  ; judge	calcular ; echar ; estimar	verb
+even	incluso	adverb
+even	par	adjective
+even  ; fifty-fifty	nivelado	adjective
+evening  ; eve  ; even  ; eventide	anochecer ; atardecer ; noche	time
+event	evento ; suceso ; episodio ; hecho	science
+every	cada	adjective
+everybody  ; everyone	todos	pronoun
+everything	todo	pronoun
+evidence	evidencia	science
+evolution  ; development	desarrollo ; evolución	nature
+exactly  ; precisely  ; just	exactamente	adverb
+examination  ; exam  ; test	examen ; test	education
+example  ; illustration  ; instance  ; representative	ejemplo	science
+exceed  ; transcend  ; overstep  ; pass  ; go past  ; top	superar	verb
+excellent  ; first-class  ; fantabulous  ; splendid	excelente ; magnífico	adjective
+exist  ; be	existir ; haber ; ser	verb
+existence  ; being  ; beingness	existencia ; vida ; vivencia ; presencia	society
+expect  ; look  ; await  ; wait	aguardar ; contar ; esperar	verb
+experience	experiencia	communication
+experience	experiencia ; destreza ; dedicación	business
+expert	experto	profession
+explain  ; explicate	explicar ; contar ; desarrollar ; comentar	verb
+express  ; limited	expreso	transport
+express  ; state	expresar ; indicar	verb
+expression  ; look  ; aspect  ; facial expression  ; face	apariencia ; aspecto ; estampa ; expresión	communication
+eye  ; oculus  ; optic	ojo	anatomy
+face  ; human face	cara ; faz ; rostro	anatomy
+fact	evidencia ; hecho	science
+factory  ; mill  ; manufacturing plant  ; manufactory	fábrica ; planta ; taller ; manufactura ; industria ; construcción	city
+fake  ; false  ; faux  ; imitation  ; simulated	artificial ; falso	adjective
+fall	caer ; derrumbarse ; desplomarse	verb-basic
+fall  ; spill  ; tumble	caída	abstract
+false	falso	adjective
+family  ; family unit	familia	family
+far	distante ; lejano ; remoto	adjective
+farm	cortijo ; estancia ; hacienda ; masía ; granja	nature
+fast	rápido ; veloz	adjective-basic
+fat	gordo	adjective
+fat	grasa	material
+fat  ; fatty	gordo	adjective
+father  ; male parent  ; begetter	padre ; papa ; papá ; viejo	family
+fear  ; fearfulness  ; fright	miedo ; terror ; inseguridad ; aprensión ; susto	feeling
+feather  ; plume  ; plumage	pluma	object
+feature  ; characteristic	característica ; rasgo	abstract
+feel  ; sense	palpar	verb-basic
+feeling	sentimiento	communication
+female	femenino	adjective-people
+female  ; female person	hembra	society
+few	pocos	adjective
+field	campo ; terreno	nature
+fifteen  ; 15  ; xv	decimoquinto	number
+fifty  ; 50  ; l	cincuenta	number
+fight  ; contend  ; struggle	luchar ; pelear ; combatir ; batallar ; contender ; resistir	verb
+fight  ; fighting  ; combat  ; scrap	combate ; lucha	abstract
+fill  ; fill up  ; make full	llenar ; abarrotar	verb
+final  ; last  ; concluding  ; terminal	final ; último	adjective
+finally  ; last  ; lastly  ; in conclusion	último	adverb
+financial  ; fiscal	fiscal ; financiero	adjective
+find  ; detect  ; observe  ; discover  ; notice	descubrir ; detectar ; encontrar ; observar ; revelar ; localizar	verb
+find  ; regain	encontrar ; recuperar	verb-basic
+finger	dedo	anatomy
+finish  ; complete	completar	verb
+finish  ; goal  ; destination	destino ; lugar	sports
+fire  ; flame  ; flaming	fuego ; llama ; incendio	nature
+fire  ; open fire	disparar	verb-basic
+firm  ; house  ; business firm	casa ; firma	business
+firm  ; solid	consistente ; firme ; sólido ; robusto ; estable	adjective
+first	primero	adjective
+first  ; 1st	primero ; primeramente ; primer	number
+first  ; firstly  ; foremost  ; first of all  ; first off	primero	adverb
+fish	pez	animal
+five  ; 5  ; v	cinco	number
+fixed	fijo	adjective
+flag	bandera	object
+flat  ; apartment	apartamento ; piso ; departamento	city
+flat  ; level  ; plane	liso ; llano ; plano	adjective
+flight  ; flying	vuelo	transport
+floor  ; flooring	piso ; suelo ; pavimento	house
+floor  ; level  ; storey  ; story	piso ; planta	house
+flower	flor	nature
+flush  ; level  ; even out  ; even	igualar	verb
+fly	mosca	animal
+fly  ; wing	volar	verb-basic
+fog	niebla	weather
+follow	seguir ; continuar ; proseguir	verb-basic
+following  ; next	siguiente  ; próximo	adjective
+food  ; nutrient	alimento ; comida	food
+foot  ; human foot  ; pes	pie	anatomy
+football  ; football game	fútbol	sports
+for	para	preposition
+for	ya que	conjunction
+forehead  ; brow	frente	anatomy
+foreign  ; strange	extranjero ; extraño ; forastero	adjective
+forest  ; wood  ; woods	bosque ; floresta ; jungla	nature
+forget	olvidar  ; ignorar  ; omitir	verb-basic
+forgive	perdonar ; excusar	verb
+fork	tenedor	kitchen
+form	formulario	business
+former  ; erstwhile  ; old  ; onetime  ; one-time  ; quondam  ; sometime	antiguo ; anterior	adjective
+forty  ; 40  ; xl  ; twoscore	cuarenta	number
+forward  ; forwards  ; frontward  ; frontwards  ; forrad  ; forrard	adelante	adverb
+fossil fuel	combustible fósil	environment
+four  ; 4  ; iv	cuatro	number
+fourteen  ; 14  ; xiv	catorce	number
+fragile  ; delicate  ; frail	delicado ; frágil	adjective
+frame	marco	object
+free	libre ; independiente	adjective-people
+free  ; complimentary  ; costless  ; gratis  ; gratuitous	gratuito	adjective
+free  ; liberate  ; release  ; unloose  ; unloosen  ; loose	liberar ; eximir ; franquear ; exonerar ; perdonar	verb
+frequent	habitual	adjective
+fresh	fresco ; helado ; refrescante	adjective
+friend	amigo	family
+friendly	amistoso ; amigable	adjective-people
+from	de	preposition
+from	de	preposition
+front	delantero	adjective
+front  ; front end  ; forepart	delantera	abstract
+frost  ; hoar  ; hoarfrost  ; rime	escarcha	weather
+fruit	fruto	food
+full	lleno	adjective
+full  ; total	absoluto ; completo ; perfecto ; total	adjective
+function  ; office  ; part  ; role	función ; oficio ; papel	mathematics
+furniture  ; piece of furniture  ; article of furniture	mueble ; decoración	furniture
+further  ; farther	más	adjective
+future	futuro	adjective
+future  ; hereafter  ; futurity  ; time to come	futuro ; porvenir	time
+game	juego	sports
+garage	cochera	house
+garden	jardín	house
+garlic  ; ail	ajo	vegetable
+gate	verja ; reja ; valla	house
+gene  ; cistron  ; factor	gen	anatomy
+general	general	adjective
+general  ; full general	general	profession
+get  ; acquire	conseguir ; obtener ; sacar ; tomar	verb-basic
+girl  ; miss  ; missy  ; young lady  ; young woman  ; fille	chica ; joven ; señorita	family
+girlfriend  ; girl  ; lady friend	chica ; compañera ; novia ; pareja	relations
+give	dar	verb-basic
+give up  ; surrender	desistir	verb
+glass	vidrio	material
+glass  ; drinking glass	vaso ; copa	container
+global warming	calentamiento global	environment
+glue  ; gum  ; mucilage	cola ; goma ; pegamento	material
+goal	gol	sports
+goat  ; caprine animal	cabra	animal
+gold  ; Au  ; atomic number 79	oro	material
+golf  ; golf game	golf	sports
+good	bueno	adjective-basic
+good  ; just  ; upright	justo ; recto	adjective
+good day	buenos días	conversation
+good luck	buena suerte	conversation
+government  ; authorities  ; regime	autoridad ; gobierno ; régimen	society
+grade  ; mark  ; score	calificación ; nota	education
+grain	grano	material
+grandfather  ; gramps  ; granddad  ; grandad  ; granddaddy  ; grandpa	abuelo	family
+grass	hierba	nature
+gray  ; grey  ; greyish  ; grayish	gris	color
+great	grande ; vasto	adjective-basic
+great  ; bang-up  ; bully  ; corking  ; cracking  ; dandy  ; groovy  ; keen  ; neat  ; nifty  ; not bad  ; peachy  ; slap-up  ; swell  ; smashing	bárbaro ; brutal ; genial	adjective-basic
+green  ; greenish  ; light-green  ; dark-green	verde	color
+greenhouse effect  ; greenhouse warming	efecto invernadero	environment
+group  ; grouping	agrupación ; colectivo ; grupo	business
+grow	crecer ; progresar	verb
+guest  ; invitee	huésped ; invitado	relations
+gun	pistola	tool
+hair	pelo	anatomy
+hair  ; pilus	pelo  ; cabello	anatomy
+half  ; one-half	mitad	mathematics
+hall  ; anteroom  ; antechamber  ; entrance hall  ; foyer  ; lobby  ; vestibule	entrada ; recibidor ; vestíbulo	house
+hammer	macillo	tool
+hand  ; manus  ; mitt  ; paw	mano	anatomy
+handle  ; grip  ; handgrip  ; hold	asa  ; mango	object
+happen  ; hap  ; go on  ; pass off  ; occur  ; pass  ; fall out  ; come about  ; take place	ocurrir ; pasar ; suceder ; suceso	verb
+happy	contento ; feliz ; alegre	adjective-basic
+hat  ; chapeau  ; lid	sombrero	clothes
+hate  ; detest	detestar ; odiar ; aborrecer ; rechazar	verb
+hate  ; hatred	odio	feeling
+have  ; have got  ; hold	tener	verb-basic
+he	él	pronoun
+head  ; caput	cabeza	anatomy
+health  ; wellness	salud	medicine
+healthy	sano	adjective-people
+healthy  ; salubrious  ; good for you	sano	adjective-basic
+hear	oír	verb-basic
+heart  ; pump  ; ticker	corazón	anatomy
+heavy	pesado	adjective-basic
+height  ; altitude	altitud ; altura ; elevación	geography
+hello  ; hullo  ; hi  ; howdy  ; how-do-you-do	hola	conversation
+help  ; aid  ; assist  ; assistance	asistencia ; ayuda	business
+help  ; assist  ; aid	ayudar ; asistir	verb-basic
+her	su	pronoun
+here	aquí	adverb
+here  ; hither	ahí	adverb
+herself	se	pronoun
+hide  ; conceal	esconder ; ocultar ; tapar	verb
+high	alto	adjective-basic
+hill	colina ; monte	geography
+him	él	pronoun
+himself	sí	pronoun
+his	su	pronoun
+history	historia	society
+hit  ; hitting  ; striking	golpe	abstract
+hit  ; smash  ; smasher  ; strike  ; bang	éxito	art
+hold  ; take hold	aguantar ; sostener ; sujetar	verb
+hole	agujero ; cavidad ; hueco	abstract
+holiday  ; vacation	vacaciones ; feriado	business
+home  ; place	casa ; hogar ; techo ; familia	house
+hook  ; claw	gancho  ; garfio  ; horquilla	tool
+hope	esperar	verb-basic
+horse  ; Equus caballus	caballo	animal
+hospital  ; infirmary	clínica ; hospital	city
+hot	acalorado	adjective-basic
+hotel	hotel	city
+hour  ; hr  ; 60 minutes	h ; hora	time
+house	casa	house
+how are you	¿es	conversation
+however  ; nevertheless  ; withal  ; still  ; yet  ; all the same  ; even so  ; nonetheless  ; notwithstanding	aunque	adverb
+human	humano	adjective-people
+human  ; homo  ; man  ; human being	hombre	family
+humor  ; humour  ; sense of humor  ; sense of humour	humorismo	communication
+hundred  ; one hundred  ; 100  ; c	cien ; ciento ; centenar	number
+hungry	hambriento	adjective-people
+husband  ; hubby  ; married man	esposo ; hombre ; marido	family
+ice  ; water ice	hielo	material
+idea  ; thought	idea ; pensamiento ; intención ; concepción ; imagen	communication
+identify  ; place	identificar	verb
+if	si	conjunction
+ill  ; sick	enfermo	adjective-people
+image	imagen	art
+immediately  ; instantly  ; straightaway  ; straight off  ; directly  ; now  ; right away  ; at once  ; forthwith  ; like a shot	inmediatamente	adverb
+impatient	ansioso	adjective-people
+imply  ; involve	implicar ; suponer	verb
+important  ; significant	importante	adjective-basic
+in  ; inwards  ; inward	en	adverb
+include	incluir	verb
+income	ingreso ; ingresos	business
+increase	aumentar ; incrementar ; crecer	verb
+increase  ; increment	incremento ; aumento ; alza	abstract
+increase  ; increment  ; growth	aumento ; crecimiento ; incremento ; multiplicación	abstract
+indeed  ; so	verdaderamente	adverb
+individual	individuo	society
+industrial	industrial	adjective
+industry  ; manufacture	industria	business
+information  ; info	información	communication
+injure  ; wound	herir ; torturar	verb
+ink	tinta	art
+insect	insecto	animal
+inside  ; within	adentro	adverb
+instead  ; alternatively  ; or else	en lugar de eso ; en cambio ; en vez ; más bien	adverb
+institution  ; establishment	institución ; instituto	society
+instrument	instrumento	device
+insurance	seguro	business
+intelligent	inteligente ; astuto ; agudo	adjective-people
+interest	interés	business
+interest  ; involvement	interés	communication
+interesting	interesante	adjective
+international	internacional	adjective
+internet  ; net  ; cyberspace	internet	abstract
+interview	entrevista	communication
+into	en	preposition
+introduce  ; innovate	introducir	verb
+introduce  ; present  ; acquaint	presentar	verb
+invention  ; innovation  ; excogitation  ; conception  ; design	concepción ; invención	art
+invoice  ; bill  ; account	factura ; recibo ; cuenta	business
+iron  ; Fe  ; atomic number 26	hierro	material
+island	isla	geography
+issue	problema	science
+it	eso	pronoun
+itself	mismo	pronoun
+jacket	chaqueta	clothes
+jewel  ; gem  ; precious stone	joya	clothes
+job  ; task  ; chore	cometido ; faena ; quehacer ; tarea ; trabajo ; empleo	business
+join  ; bring together	acoplar ; reunir	verb
+jolt  ; jar  ; jounce  ; shock	choque ; sacudida	abstract
+journalist	periodista ; corresponsal ; cronista ; editor	profession
+journey  ; journeying	viaje	transport
+judge  ; justice  ; jurist	juez ; magistrado	profession
+jump  ; leap  ;  saltation	salto	abstract
+jump  ; leap  ; bound  ; spring	saltar ; brincar	verb-basic
+just	justo ; recto	adjective-people
+keep  ; maintain  ; hold	conservar ; mantener	verb
+key	llave	tool
+kick	patada	verb
+kick  ; boot  ; kicking	patada	abstract
+kill	matar	verb
+kind	amable ; simpático ; gentil	adjective-people
+kind  ; sort  ; form  ; variety	clase ; tipo	abstract
+king  ; male monarch  ; Rex	monarca ; rey	society
+kiss  ; buss  ; osculation	beso	relations
+kiss  ; snog  ; buss  ; osculate	besar	verb-basic
+kitchen	cocina	house
+knee  ; knee joint  ; human knee  ; articulatio genus  ; genu	rodilla	anatomy
+knife	cuchillo	kitchen
+knot	lazo ; nudo	abstract
+know  ; cognize  ; cognise	conocer ; saber	verb-basic
+knowledge  ; cognition  ; noesis	conocimiento ; saber	education
+lake	lago	geography
+land  ; dry land  ; earth  ; ground  ; solid ground  ; terra firma	tierra	geography
+land  ; set down	aterrizar	verb
+language  ; linguistic communication	lenguaje	communication
+language  ; natural language  ; tongue	lengua	communication
+last	último	adjective
+late	tardío ; pausado ; lento	adjective
+late  ; belatedly  ; tardily	tarde	adverb
+later  ; after  ; subsequently  ; afterwards  ; afterward  ; later on	después	adverb
+laugh  ; express joy  ; express mirth	reír	verb-basic
+law	ley ; derecho	business
+lead  ; Pb  ; atomic number 82	plomo	material
+lead  ; take  ; direct  ; conduct  ; guide	conducir ; llevar	verb
+leader	autoridad ; dirigente ; líder	society
+leaf  ; leafage  ; foliage	hoja	nature
+learn  ; larn  ; acquire	aprender	verb-basic
+least  ; to the lowest degree	por lo menos ; como minimo	adverb
+leather	cuero ; piel	material
+leave	abandonar ; dejar	verb
+leave  ; leave of absence	despedida	business
+left	izquierdo	adjective-basic
+leg	pierna	anatomy
+legal	legal ; oficial	adjective
+lemon	limón	fruit
+let	dejar  ; consentir  ; autorizar	verb
+letter  ; letter of the alphabet  ; alphabetic character	carácter ; letra	communication
+letter  ; missive	carta ; misiva ; esquela ; epístola	communication
+library	biblioteca	city
+lie	mentir	verb-basic
+lie	yacer	verb-basic
+lie  ; prevarication	bola ; historia ; mentira ; película ; falsedad	communication
+life	existencia ; vida	family
+life	existencia ; vida	nature
+lift  ; raise  ; elevate  ; get up  ; bring up	alzar ; elevar ; levantar ; subir ; acosar ; realzar	verb
+light	ligero ; ágil ; leve	adjective-basic
+light  ; lite  ; low-cal  ; calorie-free	dietético	adjective
+light  ; visible light  ; visible radiation	luz	physics
+lightning	rayo	weather
+like	simpatizar  ; considerar  ; estimar  ; apreciar	verb-basic
+limit  ; bound  ; boundary	límite ; raya	mathematics
+limit  ; restrict  ; restrain  ; trammel  ; bound  ; confine  ; throttle	limitar	verb
+line	línea  ; linea	art
+lion  ; king of beasts  ; Panthera leo	león	animal
+lip	labio	anatomy
+liquid	líquido	adjective
+liquid	líquido ; licor	material
+list  ; listing	lista ; repertorio	abstract
+listen  ; hear  ; take heed	escuchar ; sentir	verb-basic
+little	poco	adverb
+little  ; fiddling  ; footling  ; lilliputian  ; niggling  ; piddling  ; piffling  ; petty  ; picayune  ; trivial	insignificante ; pequeño ; trivial	adjective-basic
+load  ; charge	cargar	verb
+local	local	adjective
+lock	cerradura	tool
+lock	cerrar	verb
+long	extenso ; largo	adjective-basic
+look	contemplar  ; admirar  ; calcular  ; considerar	verb-basic
+look  ; appear  ; seem	parecer	verb
+lose	perder	verb
+lose	perder	verb-basic
+loss	pérdida	business
+loud	fuerte	adjective
+love	amar ; querer	verb-basic
+love	amor ; pasión	feeling
+low	bajo	adjective
+lucky	afortunado	adjective
+lunch  ; luncheon  ; tiffin  ; dejeuner	almuerzo ; comida	food
+machine	máquina	device
+magazine  ; mag	revista	communication
+mail  ; mail service  ; postal service  ; post	correo	communication
+main  ; chief  ; primary  ; principal  ; master	primordial ; principal ; mayor	adjective
+major	principal	adjective
+majority  ; bulk	mayoría	abstract
+make  ; do	meter	verb-basic
+male	macho	adjective-people
+male  ; male person	macho	society
+male  ; manful  ; manlike  ; manly  ; virile	masculino	adjective-people
+man  ; adult male	hombre ; varón ; macho	family
+manage  ; deal  ; care  ; handle	manejar ; tratar	verb
+management  ; direction	dirección	business
+manner  ; mode  ; style  ; way  ; fashion	estilo ; forma ; método ; sistema ; procedimiento	art
+many	muchos	adjective
+many thanks	muchas gracias	conversation
+map	mapa ; plano ; carta	geography
+marker  ; marking  ; mark	marca ; señal	business
+market  ; marketplace  ; market place	mercado	business
+marriage  ; matrimony  ; union  ; spousal relationship  ; wedlock	matrimonio ; unión	family
+married	casado	adjective-people
+marry  ; get married  ; wed  ; conjoin  ; hook up with  ; get hitched with  ; espouse	casarse	verb
+mass	masa	physics
+mass  ; bulk  ; volume	masa ; volumen ; multitud	physics
+match	partido ; equipo	sports
+match  ; fit  ; correspond  ; check  ; jibe  ; gibe  ; tally  ; agree	corresponder	verb
+match  ; lucifer  ; friction match	fósforo	tool
+material  ; stuff	materia	business
+matter	materia ; sustancia	material
+matter  ; affair  ; thing	asunto ; cosa	abstract
+me	me	pronoun
+meal  ; repast	comida	food
+mean	representar ; significar	verb
+mean  ; hateful	mezquino	adjective-people
+mean  ; intend  ; think	pensar ; fraguar	verb
+mean  ; mean value	media	business
+means  ; agency  ; way	camino ; forma ; manera ; modo	abstract
+measure  ; mensurate  ; measure out	medir	verb
+measurement  ; measuring  ; measure  ; mensuration	medición	physics
+meat	carne	food
+medical	médico	adjective-people
+meet  ; run into  ; encounter  ; run across  ; come across  ; see	encontrar	verb-basic
+meeting  ; coming together	encuentro ; reunión	business
+member  ; fellow member	miembro	society
+memory	memoria	communication
+memory  ; retention  ; retentiveness  ; retentivity	memoria	communication
+menstruation  ; menses  ; menstruum  ; catamenia  ; period  ; flow	mes ; regla	medicine
+mention  ; advert  ; bring up  ; cite  ; name  ; refer	aludir ; citar ; mencionar ; mentar ; nombrar	verb
+menu  ; bill of fare  ; card  ; carte du jour  ; carte	carta	object
+metal  ; metallic	metálico	adjective
+metallic element  ; metal	metal	material
+method	método	science
+midnight	medianoche	time
+military	militar	adjective
+milk	leche	drink
+milkshake  ; milk shake  ; shake	batido	drink
+million  ; 1000000  ; one thousand thousand  ; meg	millón	number
+mind  ; head  ; brain  ; psyche  ; nous	cabeza ; cerebro ; mente ; ánimo	abstract
+mine	mina	environment
+minister  ; government minister	ministro	profession
+minute  ; infinitesimal	diminuto	adjective
+minute  ; min	minuto	time
+mirror	espejo	physics
+miss	fallar	verb
+miss	perder	verb
+mistake  ; error  ; fault	error ; fallo ; falta ; equivocación	communication
+model	modelo	science
+modern	moderno	adjective
+moisture  ; wet	humedad	nature
+moment  ; minute  ; second  ; instant	instante ; momento	time
+moment  ; mo  ; minute  ; second  ; bit	instante ; minuto ; momento ; segundo	time
+money	dinero ; plata ; pelas ; pasta ; suelto	business
+monkey	simio ; mono	animal
+month  ; calendar month	mes	time
+more  ; more than	más	adjective
+more  ; to a greater extent	más ; otra vez	adverb
+morning  ; morn  ; morning time  ; forenoon	mañana	time
+mostly  ; by and large  ; generally  ; more often than not	generalmente	adverb
+mother  ; female parent	madre	family
+mouth  ; oral cavity  ; oral fissure  ; rima oris	boca	anatomy
+move  ; displace	desplazar ; mover	verb-basic
+movement  ; motion	movimiento	physics
+movie  ; film  ; picture  ; moving picture  ; moving-picture show  ; motion picture  ; motion-picture show  ; picture show  ; pic  ; flick	película ; producción	art
+much	mucho	adjective
+muscle  ; musculus	músculo	anatomy
+museum	museo	art
+music	música	art
+musician  ; instrumentalist  ; player	músico	profession
+my	mi	pronoun
+my name is	me llamo	conversation
+nail	clavo	tool
+nail	uña	anatomy
+name	nombre ; apodo	communication
+name  ; call	llamar	verb
+narrow	estrecho	adjective
+nation  ; land  ; country	nación	society
+national	nacional	adjective
+natural	natural	adjective
+nature	naturaleza	nature
+near  ; close  ; nigh	cercano	adjective-basic
+necessary	necesario	adjective
+neck  ; cervix	cuello	anatomy
+need  ; necessitate  ; ask  ; postulate  ; require  ; take  ; involve  ; call for  ; demand	necesitar ; precisar	verb-basic
+needle	aguja	tool
+neighbor  ; neighbour	vecina ; vecino ; cercano	family
+nerve  ; nervus	nervio	anatomy
+net  ; network  ; mesh  ; meshing  ; meshwork	red  ; malla	mathematics
+never	nunca	adverb
+new	nuevo	adjective-basic
+news  ; intelligence  ; tidings  ; word	noticias	society
+newspaper  ; paper	diario ; periódico ; gaceta ; rotativo	communication
+next  ; adjacent  ; side by side	inmediato	adjective
+nice	agradable ; bonito ; simpático	adjective-basic
+night  ; nighttime  ; dark	noche	time
+nine  ; 9  ; ix	nueve	number
+nineteen  ; 19  ; xix	diecinueve	number
+ninety  ; 90  ; xc	noventa	number
+no	ningún	adjective
+no	no	conversation
+noise  ; dissonance  ; racket	ruido	society
+normal	común ; corriente ; normal	adjective
+north  ; due north  ; northward  ; N	norte	geography
+nose  ; olfactory organ	nariz	anatomy
+not  ; non	no	adverb
+note  ; annotation  ; notation	notación ; ángel	communication
+note  ; musical note  ; tone	nota ; tono	art
+nothing  ; nil  ; nix  ; nada  ; null  ; aught  ; cipher  ; cypher  ; goose egg  ; naught  ; zero  ; zilch  ; zip  ; zippo	cero ; nada	number
+now	recientemente	time
+now  ; at present	actualmente	adverb
+number	número	communication
+nurse	enfermera	medicine
+nut	nuez	fruit
+nut	tuerca	object
+obviously  ; evidently  ; manifestly  ; patently  ; apparently  ; plainly  ; plain	visto	adverb
+occupation  ; business  ; job  ; line of work  ; line	ocupación	business
+of	de	preposition
+off	desconectado ; desenchufado ; apagado	adjective
+offer	ofrecer	verb-basic
+offer  ; offering	oferta  ; ganga  ; saldo  ; liquidación	business
+office  ; business office	oficina	business
+officer  ; officeholder	funcionario	business
+often  ; frequently  ; oftentimes  ; oft  ; ofttimes	frecuentemente	adverb
+oil	aceite	food
+oil  ; petroleum  ; crude oil  ; crude  ; rock oil  ; fossil oil	petróleo	material
+old	viejo ; veterano	adjective-people
+olive	aceituna	vegetable
+on	en funcionamiento ; en operación ; conectado ; enchufado ; encendido	adjective
+on	sobre	preposition
+on	sobre	preposition
+once  ; one time  ; in one case	vez	adverb
+one  ; 1  ; i  ; ane	uno ; a	number
+onion  ; onion plant  ; Allium cepa	cebolla	vegetable
+open  ; open up	abrir	verb-basic
+open  ; unfastened	abierto	adjective-basic
+operate  ; control	controlar ; operar	verb
+operation	operación ; accionamiento	business
+operation  ; functioning  ; performance	funcionamiento	abstract
+operation  ; surgery  ; surgical operation  ; surgical procedure  ; surgical process	intervención ; operación	medicine
+opinion  ; sentiment  ; persuasion  ; view  ; thought	apreciación ; opinión ; parecer ; visión ; dictamen ; conjetura ; informe ; concepto	communication
+opposite	contrario	adjective
+opposite  ; reverse  ; contrary	contrario	abstract
+option  ; alternative  ; choice	alternativa ; elección ; opción	science
+or	o	conjunction
+orange	naranja	fruit
+orange  ; orangish	naranja	color
+orchestra	orquesta	art
+order	orden	mathematics
+order	orden	society
+order  ; tell  ; enjoin  ; say	encargar	verb
+organization  ; organisation	organización	society
+original	original	adjective
+other	otro	adjective
+our	nuestro	pronoun
+outburst  ; burst  ; flare-up	estallido ; ruptura	abstract
+outside	fuera	adverb
+outside  ; exterior	exterior	mathematics
+oven	horno	device
+own  ; ain	propio	adjective
+own  ; have  ; possess	poseer ; tener	verb
+owner  ; possessor	amo ; dueña ; dueño ; propietario	business
+ozone	ozono	environment
+package  ; bundle  ; packet  ; parcel	bulto ; lío ; paquete	business
+page	página ; hoja	communication
+pain  ; hurting	dolor	medicine
+paint  ; pigment	pintura	art
+painting  ; picture	cuadro ; pintura	art
+paper	papel	art
+parallel	paralelo	adjective
+parent	madre	family
+park  ; commons  ; common  ; green	parque	city
+parsnip  ; Pastinaca sativa	pastinaca sativa	vegetable
+part  ; portion  ; component part  ; component  ; constituent	componente ; parte	abstract
+part  ; section  ; division	división ; parte ; sección	business
+part  ; share  ; portion  ; percentage	parte ; porcentaje	abstract
+particular	particular	adjective
+particularly  ; peculiarly  ; especially  ; specially	ante todo	adverb
+party	fiesta	relations
+pass  ; hand  ; reach  ; pass on  ; turn over  ; give	ceder ; dar ; entregar ; pasar ; traspasar	verb
+pass  ; laissez passer	pase	society
+passenger  ; rider	pasajero ; pasajera	transport
+passport	pasaporte	society
+past	pasado	adjective
+past  ; past times  ; yesteryear	pasado	time
+patient	paciente	adjective-people
+patient	paciente	medicine
+pause  ; intermission  ; break  ; interruption  ; suspension	pausa ; suspensión	time
+pay	abonar ; pagar	verb-basic
+payment	pago	business
+peace	paz	society
+peach	melocotón	fruit
+pear	pera	fruit
+peel  ; skin  ; pare	pelar ; mondar	verb
+pen	pluma	art
+pencil	lápiz	art
+people	gente	society
+percent  ; percentage  ; per centum  ; pct	porcentaje	mathematics
+period  ; time period  ; period of time	período  ; ciclo	time
+person  ; individual  ; someone  ; somebody  ; mortal  ; soul	mortal	family
+personal	individual ; particular ; personal	adjective
+personality	personalidad	abstract
+phase  ; stage	estadio ; etapa ; fase	science
+photographer  ; lensman	fotógrafo	profession
+physical	físico	adjective
+picture  ; image  ; icon  ; ikon	foto ; fotografía ; imagen	art
+piece	pedazo ; trozo	abstract
+pig  ; hog  ; grunter  ; squealer  ; Sus scrofa	marrano	animal
+pilot  ; airplane pilot	piloto	profession
+pin	alfiler	object
+pineapple  ; ananas	ananá	fruit
+pink  ; pinkish	rosa ; rosado	color
+pipe  ; pipage  ; piping	tubería  ; conducto	object
+place  ; topographic point  ; spot	lugar ; sitio	abstract
+plain  ; field  ; champaign	campaña ; llanura	geography
+plan	planificar	verb
+plan  ; program  ; programme	plan ; programa ; plano ; llano ; proyecto	business
+plane  ; airplane  ; aeroplane	avión	transport
+plant  ; flora  ; plant life	flora ; planta	nature
+plate	plato	container
+play	jugar ; tocar	verb-basic
+player  ; participant	jugador	sports
+please	por favor	adverb
+please  ; delight	agradar ; complacer ; encantar	verb
+pleasure  ; pleasance	placer ; gusto	feeling
+plow  ; plough  ; turn	arar  ; binar	verb
+plum	ciruela	fruit
+poem  ; verse form	poema ; poesía ; verso	art
+poetry  ; poesy  ; verse	poesía ; verso	art
+point  ; dot	punto ; puntillo	communication
+poison	envenenar	verb
+poison  ; toxicant  ; poisonous substance	tóxico	material
+police  ; police force  ; constabulary  ; law	guardia ; policía	society
+policeman  ; police officer  ; officer	agente ; guardia ; oficial ; policía	profession
+policy	política	society
+polish  ; smooth  ; smoothen  ; shine	abrillantar	verb
+political	político	adjective
+politician  ; politico  ; pol  ; political leader	político	profession
+pollution	contaminación	environment
+poor	pobre	adjective-people
+poor  ; hapless  ; miserable  ; misfortunate  ; pathetic  ; piteous  ; pitiable  ; pitiful  ; wretched	miserable ; pobre ; triste ; indefenso	adjective
+popular  ; pop	popular	adjective
+population	población	society
+position  ; place	lugar ; puesto ; sitio	abstract
+possible	posible ; realizable	adjective
+possibly  ; perchance  ; perhaps  ; maybe  ; mayhap  ; peradventure	quizás	adverb
+potato  ; white potato  ; Irish potato  ; murphy  ; spud  ; tater	patata	vegetable
+powder  ; pulverization  ; pulverisation	polvo	material
+power  ; powerfulness	energía	abstract
+practice	práctica	abstract
+preferably  ; sooner  ; rather	más bien	adverb
+prepare  ; fix  ; set up  ; ready  ; gear up  ; set	disponer ; preparar ; coordinar ; organizar ; aprestar	verb
+present	actual ; presente ; ofrenda	adjective
+present	regalo ; presente	object
+present  ; nowadays	actualidad ; presente	time
+president	presidente	profession
+press	apretar ; presionar	verb
+pressure  ; pressure level  ; force per unit area	presión	physics
+prevent  ; forestall  ; foreclose  ; preclude  ; forbid	estorbar ; impedir	verb
+previous  ; old	anterior	adjective
+price  ; cost  ; toll	coste ; precio	business
+print  ; impress	imprimir ; moldear ; sellar	verb
+prison  ; prison house	prisión	city
+private	personal  ; particular	adjective
+private  ; individual	unipersonal	adjective-people
+probable  ; likely	posible ; probable ; eventual	adjective
+probably  ; likely  ; in all likelihood  ; in all probability  ; belike	probablemente	adverb
+problem  ; job	dificultad ; problema	business
+procedure  ; process	procedimiento ; proceso ; método	science
+process  ; physical process	proceso	physics
+process  ; treat	procesar ; tratar	verb
+product  ; production	producción ; producto	business
+production	producción ; creación ; elaboración	science
+professional	profesional	adjective
+professional  ; professional person	profesional	profession
+profit  ; net income  ; net  ; net profit  ; lucre  ; profits  ; earnings	ganancia  ; utilidades	business
+profit  ; turn a profit	beneficiarse	verb
+program  ; programme  ; computer program  ; computer programme	programa	science
+project  ; projection	proyecto	science
+project  ; undertaking  ; task  ; labor	proyecto ; tarea ; contrata	abstract
+promise  ; hope	esperanza	feeling
+pronunciation	pronunciación	communication
+property	propiedad	abstract
+property  ; belongings  ; holding	pertenencia ; propiedad	business
+proposal	proposición	communication
+protest	protestar ; reclamar ; amenazar ; luchar	verb
+protest  ; protestation	protesta	communication
+prove  ; testify  ; bear witness  ; evidence  ; show	mostrar	verb
+public	público	adjective
+public  ; populace  ; world	mundo ; pueblo	society
+publish  ; bring out  ; put out  ; issue  ; release	publicar ; sacar	verb
+pull  ; draw  ; force	arrastrar ; estirar ; tirar	verb-basic
+pump	bomba	tool
+punishment  ; penalty  ; penalization  ; penalisation	castigo	society
+purpose  ; function  ; role  ; use	función ; propósito	mathematics
+push  ; force	apretar ; empujar	verb-basic
+put  ; set  ; place  ; pose  ; position  ; lay	poner	verb-basic
+quality	calidad ; cualidad	abstract
+question  ; inquiry  ; enquiry  ; query  ; interrogation	demanda ; pregunta ; búsqueda	communication
+quickly  ; rapidly  ; speedily  ; chop-chop  ; apace	rápidamente ; a prisa ; al trote ; apresuradamente ; aprisa ; con prontitud ; de prisa ; ejecutivamente ; ligero ; prestamente ; presto ; presurosamente ; prontamente ; raudamente ; velozmente	adverb
+quiet	silencioso	adjective
+quiet  ; repose  ; placidity  ; serenity  ; tranquillity  ; tranquility	serenidad ; sosiego ; tranquilidad ; calma ; dulzura	abstract
+radish	rábano	vegetable
+rain  ; rainfall	lluvia	weather
+rainbow	arco iris	weather
+raise  ; rear  ; bring up  ; nurture  ; parent	criar ; asistir	verb
+range  ; scope  ; reach  ; orbit  ; compass  ; ambit	alcance ; ámbito ; esfera ; marco	science
+raspberry	frambuesa	fruit
+rate  ; charge per unit	tarifa ; tipo ; tasa	business
+rate  ; rank  ; range  ; order  ; grade  ; place	clasificar	verb
+reach  ; make  ; attain  ; hit  ; arrive at  ; gain	alcanzar ; ganar	verb
+reach  ; range	alcance	abstract
+reaction	reacción	communication
+read	leer	verb-basic
+ready	listo	adjective
+real  ; existent	existente ; real	adjective-basic
+really  ; actually	verdaderamente	adverb
+really  ; truly  ; genuinely	realmente	adverb
+reason  ; ground	razón ; motivo	communication
+receive  ; have	recibir	verb
+recent	reciente	adjective
+recently  ; late  ; lately  ; of late  ; latterly	recientemente	adverb
+record	marca	sports
+record  ; tape	grabar ; registrar	verb
+recycling	reciclaje	environment
+red  ; reddish  ; ruddy  ; blood-red  ; carmine  ; cerise  ; cherry  ; cherry-red  ; crimson  ; ruby  ; ruby-red  ; scarlet	rojizo ; rojo	color
+reduce  ; cut down  ; cut back  ; trim  ; trim down  ; trim back  ; cut  ; bring down	cortar ; recortar	verb
+reflect  ; reverberate	reflejar	verb
+refuse  ; reject  ; pass up  ; turn down  ; decline	rechazar ; declinar ; desairar ; desterrar ; excluir ; rehusar	verb
+region  ; part	parte ; región	geography
+regular	regular	adjective
+relation	relación	communication
+relationship  ; human relationship	relación	family
+religion  ; faith  ; organized religion	iglesia	society
+religion  ; faith  ; religious belief	fe ; religión ; seguridad	society
+remember  ; retrieve  ; recall  ; call back  ; call up  ; recollect  ; think	recordar ; avisar ; recuperar	verb-basic
+remove  ; take  ; take away  ; withdraw	quitar ; sacar	verb
+render  ; return	devolver ; entregar	verb
+replace  ; supplant  ; supersede  ; supervene upon  ; supercede	reemplazar	verb
+reply  ; answer  ; respond	responder	verb
+report	informar ; relatar	verb
+report  ; study  ; written report	estudio ; informe ; memoria	abstract
+represent  ; stand for  ; correspond	corresponder ; representar	verb
+representative	representante	profession
+request  ; asking	instancia ; petición ; solicitud	communication
+request  ; bespeak  ; call for  ; quest	pedir ; solicitar ; demandar	verb
+research	investigación	science
+research  ; inquiry  ; enquiry	estudio ; investigación	science
+respect  ; honor  ; honour  ; abide by  ; observe	honrar ; venerar ; admirar	verb
+responsibility  ; responsibleness	responsabilidad ; deber	abstract
+responsible	responsable	adjective
+rest	reposar	verb
+rest  ; ease  ; repose  ; relaxation	descansar	abstract
+rest  ; remainder  ; balance  ; residual  ; residue  ; residuum	restante ; resto ; residuo ; escombro	business
+restaurant  ; eating house  ; eating place  ; eatery	restaurante	city
+result  ; resultant  ; final result  ; outcome  ; termination	consecuencia ; resultado ; fruto	mathematics
+return  ; homecoming	regreso ; vuelta ; retorno	abstract
+reveal  ; unwrap  ; disclose  ; let on  ; bring out  ; discover  ; expose  ; divulge  ; break  ; give away  ; let out	declarar ; manifestar ; revelar ; descubrir ; denunciar	verb
+rhythm  ; beat  ; musical rhythm	ritmo ; compás	art
+rice	arroz	food
+rich	rico	adjective-people
+right	derecho	adjective-basic
+right	derecho	business
+rigid  ; stiff	rígido ; tieso	adjective
+ring  ; band	anillo	clothes
+rise  ; rising  ; ascent  ; ascension	ascensión ; ascenso ; subida	abstract
+risk  ; gamble  ; chance  ; hazard  ; take chances  ; adventure  ; run a risk  ; take a chance	arriesgar ; aventurar	verb
+risk  ; hazard  ; jeopardy  ; peril  ; endangerment	peligro ; riesgo ; azar	abstract
+river	río	geography
+road  ; route	carretera	city
+roof	techo	house
+room	cuarto ; habitación	house
+root	raíz	mathematics
+root	raíz	nature
+rope	cuerda	object
+rough  ; unsmooth	áspero	adjective
+round  ; circular	redondo	adjective
+round off  ; round down  ; round out  ; round	redondear	verb
+royal  ; imperial  ; majestic  ; purple  ; regal	real	adjective-people
+rule  ; govern	gobernar ; regir	verb
+rule  ; regulation	norma ; regla ; regulación	mathematics
+run	correr	verb-basic
+sad	triste	adjective-people
+sad  ; deplorable  ; distressing  ; lamentable  ; pitiful  ; sorry	lamentable ; penoso ; triste	adjective
+safe	seguro	adjective
+sail  ; canvas  ; canvass  ; sheet	vela	object
+sailor  ; crewman	marinero	profession
+salad	ensalada	food
+sale	venta	business
+salt  ; table salt  ; common salt	sal	food
+same	mismo	adjective
+sand	arena	material
+sandwich	bocadillo	food
+sauce	salsa	food
+save  ; preserve	ahorrar	verb
+save  ; salvage  ; salve  ; relieve	salvar ; sacar ; librar	verb
+say  ; tell  ; state	decir ; manifestar	verb-basic
+school  ; schoolhouse	colegio ; escuela	city
+science  ; scientific discipline	ciencia	science
+scientist	científico	profession
+scissors  ; pair of scissors	tijeras	tool
+sea	mar ; océano	geography
+season	temporada	time
+seat	asiento ; banco ; butaca ; escaño ; silla	furniture
+seat  ; place	asiento ; localidad ; plaza	abstract
+second  ; 2nd  ; 2d	segundo	adjective
+second  ; sec  ; s	s ; segundo	time
+secret	secreto	communication
+secret  ; clandestine  ; cloak-and-dagger  ; hole-and-corner  ; hugger-mugger  ; hush-hush  ; surreptitious  ; undercover  ; underground	oculto ; secreto	adjective
+secretary  ; secretarial assistant	secretario	profession
+section  ; subdivision	apartado ; sección	business
+see	ver	verb
+see  ; consider  ; reckon  ; view  ; regard	considerar ; ver	verb
+seed	pepita ; semilla	object
+sell	vender	verb-basic
+send  ; mail  ; post	echar ; enviar ; mandar ; remitir	verb
+sentence	oración ; frase	communication
+separate	separado	adjective
+serial  ; series	serie	abstract
+serious	serio	adjective
+servant  ; retainer	criado	profession
+serve	ejercer	verb
+service	servicio	business
+set	conjunto	mathematics
+set	conjunto ; juego	abstract
+set  ; laid	determinado	adjective
+seven  ; 7  ; vii	siete	number
+seventeen  ; 17  ; xvii	diecisiete	number
+seventy  ; 70  ; lxx	setenta	number
+several	varios	adjective
+sew  ; run up  ; sew together  ; stitch	coser	verb
+sex	sexo	nature
+sex  ; sexual activity  ; sexual practice  ; sex activity	sexo	relations
+shake  ; tremble  ; shiver	temblor ; escalofríos	abstract
+shape  ; form  ; cast	figura	art
+share	acción ; título	business
+share	compartir	verb
+sharp  ; acuate  ; acute  ; needlelike	agudo ; afilado ; cortante	adjective-basic
+sharp  ; astute  ; shrewd	astuto	adjective-people
+she	ella	pronoun
+sheep	oveja	animal
+shelf	estante	furniture
+ship	barco ; buque ; nave	transport
+shirt	camisa	clothes
+shock  ; daze  ; stupor	choque	feeling
+shoe	zapato	clothes
+shop  ; store	establecimiento ; almacén ; tienda	business
+short	corto ; breve	adjective
+shout  ; shout out  ; cry  ; call  ; yell  ; scream  ; holler  ; hollo  ; squall	gritar ; llamar	verb
+show	espectáculo ; muestra	business
+show  ; demo  ; exhibit  ; present  ; demonstrate	exhibir ; mostrar ; indicar	verb
+shower	ducha	house
+side	lado	mathematics
+sign	signo	communication
+silence  ; quiet	silencio ; discreción ; mordaza ; reserva	abstract
+silent  ; soundless  ; still	silencioso ; callado	adjective
+silk	seda	material
+silly  ; airheaded  ; dizzy  ; empty-headed  ; featherbrained  ; giddy  ; light-headed  ; lightheaded	tonto	adjective-people
+silver	plata ; argento ; color plateado	adjective
+silver  ; Ag  ; atomic number 47	plata	material
+similar	parecido ; semejante ; similar	adjective-basic
+simple  ; elementary  ; uncomplicated  ; unproblematic	elemental ; simple	adjective
+simply  ; merely  ; just  ; only  ; but	solamente	adverb
+since	desde	preposition
+sincere	sincero ; franco ; leal	adjective-people
+sing	cantar	verb-basic
+singer  ; vocalist  ; vocalizer  ; vocaliser	cantante	art
+single	solo	adjective
+single  ; unmarried	soltero	adjective-people
+sink	fregadero ; pila	furniture
+sister  ; sis	hermana	family
+sit  ; sit down	sentar	verb-basic
+situation  ; state of affairs	situación	abstract
+six  ; 6  ; vi  ; half dozen  ; half-dozen	seis	number
+sixteen  ; 16  ; xvi	dieciséis	number
+sixty  ; 60  ; lx  ; threescore	sesenta	number
+size	medida ; tamaño	physics
+skid  ; slip  ; sideslip	patinazo	transport
+skilful  ; adept  ; expert  ; good  ; practiced  ; proficient  ; skillful	hábil	adjective-people
+skill  ; science	destreza	business
+skin  ; tegument  ; cutis	piel	anatomy
+skirt	falda ; pollera	clothes
+sky	cielo	nature
+sleep  ; slumber	sueño	nature
+slice  ; piece	trozo	abstract
+slow	lento	adjective-basic
+slowly  ; slow  ; easy  ; tardily	lentamente	adverb
+small  ; little	menudo ; pequeño ; chico ; breve ; escaso ; poco	adjective
+smash  ; nail  ; boom  ; blast	aplastar	verb
+smell	oler	verb
+smell	oler	verb
+smell	oler ; olfatear ; aspirar	verb
+smell  ; olfactory property  ; aroma  ; odor  ; odour  ; scent	olor ; hedor	nature
+smile	sonreír	verb-basic
+smile  ; smiling  ; grin  ; grinning	sonrisa	relations
+smog  ; smogginess	niebla mezclada con humo	environment
+smoke	fumar	verb
+smoke  ; fume	vapor	nature
+smooth	liso ; llano ; suave	adjective
+snake  ; serpent  ; ophidian	serpiente	animal
+snow	nieve	weather
+so	así	adverb
+soap	jabón	material
+social	social	adjective
+society	sociedad	science
+sock	calcetín	clothes
+soft	blando ; muelle	adjective-basic
+soldier	soldado	profession
+solid	sólido	adjective
+sometimes	a veces	adverb
+son  ; boy	hijo	family
+song  ; vocal	canción	art
+soon  ; shortly  ; presently  ; before long	pronto	adverb
+sorry	discúlpame	conversation
+sorry	¿cómo	conversation
+sound	sonido	physics
+soup	sopa ; caldo	food
+south  ; due south  ; southward  ; S	sur	geography
+space  ; infinite	espacio	geography
+sparse  ; thin	claro ; disperso	adjective
+special  ; especial  ; exceptional  ; particular	especial ; excepcional ; particular ; singular	adjective
+specific	específico	adjective
+speech  ; speech communication  ; spoken communication  ; spoken language  ; language  ; voice communication  ; oral communication	habla ; lenguaje ; decir	communication
+spelling	ortografía	communication
+spend  ; pass	pasar	verb
+spoon	cuchara	kitchen
+spring	muelle	tool
+spring  ; fountain  ; outflow  ; outpouring  ; natural spring	fuente	nature
+spring  ; springtime	primavera	time
+square	cuadrado ; cuadro	adjective
+square  ; foursquare	cuadrado	mathematics
+square  ; second power	cuadrado	mathematics
+staff	personal	business
+stage	escenario	art
+stamp	sello ; cajetín ; timbre	tool
+stamp  ; postage  ; postage stamp	porte	object
+stand  ; stand up	alzar ; levantar	verb
+standard	estándar	adjective
+standard  ; criterion  ; measure  ; touchstone	criterio ; estándar ; patrón ; pauta ; regla	communication
+star	estrella ; astro	geography
+state	estado	abstract
+state	estado	society
+statement	afirmación ; declaración	communication
+station	estación	city
+stay  ; remain  ; rest	permanecer  ; mantener  ; esperar	verb
+steal	afanar ; quitar	verb
+steam	humo	physics
+steel	acero	material
+stem  ; stalk	tallo ; pedúnculo	nature
+step  ; footstep  ; pace  ; stride	paso ; desplazamiento	abstract
+step  ; stair	escalón	house
+stick	palo ; vara ; bastón	object
+sticky  ; gluey  ; glutinous  ; gummy  ; mucilaginous  ; pasty  ; viscid  ; viscous	glutinoso	adjective
+still	todavía	adverb
+stitch	punto	medicine
+stomach  ; tummy  ; tum  ; breadbasket	estómago	anatomy
+stone  ; rock	piedra ; roca	object
+stop  ; halt	detener	verb
+stop  ; halt	parada	abstract
+storm  ; violent storm	tormenta	weather
+straight	recto ; derecho ; vertical ; perpendicular ; directo	adjective
+strange  ; unusual	insólito	adjective
+strawberry	fresa	fruit
+stream  ; flow  ; current	corriente ; curso	nature
+street	calle ; camino ; avenida ; calzada	city
+strength  ; force  ; forcefulness	fuerza	physics
+strong	fuerte	adjective-basic
+structure	estructura	business
+structure  ; construction	construcción ; estructura	city
+student  ; pupil  ; educatee	alumno ; estudiante	education
+study	estudiar	verb
+stupid	estúpido ; imbécil ; tonto	adjective-people
+style	estilo	art
+stylish  ; fashionable	elegante	adjective
+subject  ; dependent	asunto	adjective-people
+subject  ; topic  ; theme	asunto ; objeto ; tema ; premisa	communication
+substitution  ; exchange  ; commutation	sustitución	mathematics
+subway  ; metro  ; tube  ; underground  ; subway system	metro ; metropolitano	city
+success	éxito	business
+successful	exitoso ; afortunado	adjective-people
+such	tal	adverb
+sudden	repentino	adjective
+suddenly  ; all of a sudden  ; of a sudden	bruscamente	adverb
+suffer  ; endure	soportar ; sufrir	verb
+sugar  ; refined sugar	azúcar	food
+suggest  ; propose  ; advise	proponer ; sugerir ; aconsejar ; inspirar ; apuntar	verb
+suggestion  ; proposition  ; proffer	proposición ; propuesta ; sugerencia	communication
+suitcase  ; bag  ; traveling bag  ; travelling bag  ; grip	maleta	clothes
+summer  ; summertime	verano	time
+sun  ; Sun	sol	geography
+supermarket	supermercado	city
+supply  ; provide  ; render  ; furnish	facilitar ; proporcionar ; suministrar ; proveer	verb
+support	apoyo ; ayuda	business
+support  ; back up	apoyar ; respaldar	verb
+suppose  ; say	suponer	verb
+surely  ; certainly  ; sure  ; for sure  ; for certain  ; sure enough  ; sure as shooting	ciertamente	adverb
+surface	superficie	mathematics
+surprise	asombro ; desconcierto ; sorpresa	relations
+surprise	sorprender	verb
+survive  ; last  ; live  ; live on  ; go  ; endure  ; hold up  ; hold out	durar	verb
+sweet	dulce ; pastel	adjective
+sweet  ; sweetness  ; sugariness	dulzura	food
+swim	nadar	verb-basic
+system  ; scheme	sistema	science
+table	mesa	furniture
+table  ; tabular array	tabla	business
+tail	cola	anatomy
+take  ; get hold of	coger ; tomar	verb-basic
+talk  ; speak  ; utter  ; mouth  ; verbalize  ; verbalise	decir ; hablar ; conversar	verb-basic
+tall	alto	adjective
+taste  ; gustation  ; sense of taste  ; gustatory modality	gusto	abstract
+taste  ; savor  ; savour	probar	verb
+tax  ; taxation  ; revenue enhancement	carga ; contribución ; imposición ; impuesto ; tasa ; tributación	business
+tea	té	drink
+teach  ; learn  ; instruct	enseñar ; instruir	verb
+teacher  ; instructor	profesor ; maestro ; educador	education
+team  ; squad	equipo ; personal	business
+technology  ; engineering	tecnología	science
+television  ; tv set  ; television receiver  ; television set  ; tv  ; idiot box  ; boob tube  ; telly  ; goggle box	tele ; televisión ; televisor	device
+television camera  ; tv camera  ; camera	cámara	device
+ten  ; 10  ; x	diez	number
+tennis  ; lawn tennis	tenis	sports
+test  ; prove  ; try  ; try out  ; examine  ; essay	ensayar ; examinar ; probar	verb
+than	que	conjunction
+thank  ; give thanks	agradecer	verb
+thank you very much	muchas gracias	conversation
+that	aquel	pronoun
+the	el	article
+theater  ; theatre  ; house	teatro	city
+their	su	pronoun
+them	los	pronoun
+then  ; so  ; and so  ; and then	entonces	adverb
+theory	teoría	science
+there  ; at that place  ; in that location	ahí	adverb
+therefore  ; hence  ; thence  ; thus  ; so	así	adverb
+these	estos	pronoun
+they	ellos	pronoun
+thick	espeso	adjective
+thin	delgado	adjective
+thing	cosa	abstract
+think  ; cogitate  ; cerebrate	discurrir ; pensar	verb
+third  ; 3rd  ; tertiary	tercero	number
+thirsty	sediento	adjective-people
+thirteen  ; 13  ; xiii	trece	number
+thirty  ; 30  ; xxx	treinta	number
+this	esta	pronoun
+those	esas	pronoun
+thousand  ; one thousand  ; 1000  ; M  ; K  ; chiliad  ; G  ; grand  ; thou  ; yard	mil ; millar	number
+thousand  ; one thousand  ; 1000  ; m  ; k	mil ; millar	number
+three  ; 3  ; iii	tres	number
+throat  ; pharynx	garganta	anatomy
+through	a través de ; dentro de ; por	adverb
+throw	lanzamiento	sports
+throw	lanzar ; echar ; tirar ; arrojar	verb
+thumb  ; pollex	pulgar	anatomy
+thunder	trueno	weather
+ticket	billete ; pasaje	object
+tie  ; necktie	corbata	clothes
+tight	apretado	adjective
+time  ; fourth dimension	tiempo	physics
+tired	cansado	adjective-people
+title	título	society
+title  ; entitle	autorizar ; titular	verb
+to	por	preposition
+today	hoy	adverb
+today	hoy	time
+toe	dedo de pie	anatomy
+together	juntos	adverb
+toilet  ; lavatory  ; lav  ; can  ; john  ; privy  ; bathroom	baño ; letrina	house
+tomato	tomate	vegetable
+tomorrow	mañana	adverb
+tomorrow	mañana	time
+tongue  ; lingua  ; glossa  ; clapper	lengua	anatomy
+tonight  ; this evening  ; this night	esta noche	adverb
+too  ; besides  ; also  ; likewise  ; as well	también	adverb
+tooth	diente	anatomy
+top  ; peak  ; summit  ; acme  ; height  ; elevation  ; pinnacle  ;  superlative  ; meridian  ; tiptop	auge ; cima ; pico	abstract
+total  ; sum  ; amount	monto ; suma ; total	mathematics
+touch  ; touching	toque	abstract
+town	población ; villa ; ciudad	city
+trace  ; draw  ; line  ; describe  ; delineate	dibujar ; trazar ; delinear	verb-basic
+track  ; rail  ; rails  ; runway	carril  ; riel  ; linea	transport
+trade	comercio	business
+trade  ; merchandise	comerciar	verb
+train  ; develop  ; prepare  ; educate	enseñar	verb
+train  ; railroad train	ferrocarril ; tren	transport
+training  ; preparation  ; grooming	formación ; preparación ; capacitación ; entrenamiento	education
+transport  ; shipping  ; transportation	transporte	transport
+travel  ; go  ; move  ; locomote	ir	verb
+treat  ; care for	cuidar ; tratar	verb
+treatment  ; handling	tratamiento ; trato	abstract
+tree	árbol	nature
+trend  ; tendency	tendencia	science
+trick	trampa	abstract
+trick  ; flim-flam  ; play a joke on  ; play tricks  ; fob  ; fox  ; pull a fast one on  ; play a trick on	embaucar	verb
+trouble  ; problem	problema	science
+true	verdadero	adjective
+try  ; seek  ; attempt  ; essay  ; assay	intentar ; pretender	verb
+turn	girar ; rotar	verb
+twenty  ; 20  ; xx	veinte	number
+two  ; 2  ; ii	dos	number
+type	tipo	abstract
+ugly	desagradable ; horrible	adjective
+under  ; nether	bajo ; inferior	adjective
+understand	coger ; comprender ; entender	verb-basic
+unemployed	parado	adjective-people
+union	unión	society
+unit  ; unit of measurement	unidad	physics
+university	universidad	city
+until	hasta	conjunction
+unusual	excepcional ; extraordinario ; insólito	adjective
+up  ; upwards  ; upward  ; upwardly	alto	adverb
+us	nos	pronoun
+use  ; usage  ; utilization  ; utilisation  ; employment  ; exercise	empleo ; uso ; utilización	abstract
+use  ; utilize  ; utilise  ; apply  ; employ	emplear ; usar ; utilizar	verb-basic
+used  ; secondhand	empleado	adjective
+useful  ; utile	útil ; aprovechable ; conveniente ; de provecho ; práctico ; provechoso ; usable	adjective
+user	usuario	science
+usual	común ; habitual ; normal ; usual	adjective
+usual  ; common	corriente	adjective
+usually  ; normally  ; unremarkably  ; commonly  ; ordinarily	normalmente	adverb
+value	valor	business
+various  ; diverse	diverso ; vario	adjective
+very  ; really  ; real  ; rattling	muy	adverb
+village  ; small town  ; settlement	pueblo	city
+violent	violento	adjective-people
+violet  ; purple  ; purplish	morado ; violeta	color
+visit	visita	relations
+visit  ; see	ver ; visitar	verb
+vogue  ; trend  ; style	estilo ; tendencia	art
+voice  ; vocalization  ; vocalisation  ; vocalism  ; phonation  ; vox	voz	communication
+wages  ; reward  ; payoff	pago ; recompensa	business
+wait  ; hold off  ; hold back	esperar	verb-basic
+walk	andar ; caminar	verb
+wall	muro ; pared ; tabique	house
+war  ; state of war	guerra	society
+warm	calentar	verb
+warm	cálido	adjective
+wash  ; launder	lavar	verb
+waste  ; waste material  ; waste matter  ; waste product	desperdicios	environment
+watch  ; see  ; view  ;  catch  ; take in	ver	verb
+watch  ; ticker	reloj	device
+water  ; H2O	agua	drink
+wave  ; moving ridge	ola	nature
+we	nosotros	pronoun
+weak	débil	adjective-basic
+wear	desgaste	abstract
+wear  ; have on	llevar ; vestir	verb
+weather  ; weather condition  ; conditions  ; atmospheric condition	tiempo ; clima	nature
+wedding  ; marriage  ; marriage ceremony	boda	family
+wedding  ; wedding ceremony  ; nuptials  ; hymeneals	boda ; boda nupcial ; casamiento ;	family
+week  ; calendar week	semana	time
+weekend	fin de semana	time
+weigh	pesar	verb
+weight	peso	physics
+well	pozo	house
+well  ; good	bien	adverb
+west  ; due west  ; westward  ; W	oeste	geography
+wet	húmedo	adjective
+what	que	pronoun
+what is your name	cómo se llama usted	conversation
+wheel	rueda	object
+when	cuando	pronoun
+whenever	cuando quiera	conjunction
+which	cuál	pronoun
+which	cuál	pronoun
+while  ; piece  ; spell  ; patch	instante ; minuto ; momento ; segundo	time
+whip	azote	tool
+white	blanco  ; cándido	color
+who	quién	pronoun
+whole	entero	adjective
+whole	todo ; totalidad	abstract
+whom	quién	pronoun
+whose	cuyo	pronoun
+why	por qué	adverb
+wide  ; broad	amplio ; ancho	adjective
+wife  ; married woman	esposa	family
+will	voluntad	society
+will  ; testament	testamento	society
+will  ; volition	voluntad	abstract
+win	ganar ; triunfar ; vencer	verb
+win	triunfo	sports
+wind  ; air current  ; current of air	corriente ; aire ; viento ; brisa	weather
+window	ventana	house
+wine  ; vino	vino	drink
+wing	ala	anatomy
+winter  ; wintertime	invierno	time
+wire	alambre	object
+wise	sabio ; serio ; formal	adjective-people
+wish	desear	verb
+wish  ; wishing  ; want	deseo  ; anhelo	abstract
+with	con	preposition
+with	con	preposition
+without	sin	preposition
+woman  ; adult female	mujer	family
+wood	madera	material
+wool	lana	material
+word	palabra ; oferta	communication
+work	trabajo	business
+worker	trabajador	business
+world	planeta	nature
+write	escribir	verb-basic
+writer  ; author	autor ; escritor	profession
+writing	escritura	communication
+wrong  ; incorrect	incorrecto ; erróneo	adjective-basic
+year  ; twelvemonth  ; yr	año	time
+yellow  ; yellowish  ; xanthous	amarillo	color
+yes	sí	conversation
+young  ; immature	joven	adjective-people
+your	su	pronoun
+yourself	te	pronoun
+you're welcome	de nada	conversation
