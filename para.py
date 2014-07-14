@@ -2,6 +2,7 @@ import nltk
 import codecs
 import pickle
 import re
+import operator
 
 en_lines = [line.decode('utf8').strip() for line in open('en.txt')]
 sp_lines = [line.decode('utf8').strip() for line in open('sp.txt')]
@@ -13,8 +14,10 @@ en_stemmer = SnowballStemmer("english")
 sp_stemmer = SnowballStemmer("spanish")
 
 def para(lines):
-  comment_block = re.compile('{[^}]*}')
-  digit_block = re.compile('^[0-9]+ ')
+  comment_block = re.compile('{[^}]*}', flags=re.IGNORECASE)
+  digit_block = re.compile('^[0-9]+ ', flags=re.IGNORECASE)
+  negative_block = re.compile("n't ", flags=re.IGNORECASE)
+  plural_block = re.compile("'s", flags=re.IGNORECASE)
 
   para = ''
   for l in lines:
@@ -26,6 +29,8 @@ def para(lines):
 
       para = digit_block.sub('', para)
       para = comment_block.sub(' ', para)
+      para = negative_block.sub(' not ', para)
+      para = plural_block.sub('s', para)
       yield para.strip()
       para = ''
 
@@ -60,8 +65,8 @@ def read_dict(file_name):
       continue
 
     # dictionary shows synonyms as a comma separated list
-    en_words = [w.strip() for w in words[0].split(";")]
-    sp_words = [w.strip() for w in words[1].split(";")]
+    en_words = [w.strip().lower() for w in words[0].split(";")]
+    sp_words = [w.strip().lower() for w in words[1].split(";")]
 
     # discard parts of speech and handle synonyms
     #sp_words = flatten([w.split('-')[-1].split(";") for w in words[1:]])
@@ -96,6 +101,8 @@ def read_dict(file_name):
 read_dict('dict.txt')
 read_dict('dict2.txt')
 read_dict('dict3.txt')
+read_dict('dict5.txt')
+read_dict('dict6.txt')
 
 _en_sp = open('_en_sp', 'w')
 _en_sp.write(unicode(en_sp))
@@ -104,19 +111,32 @@ _en_sp.close()
 found = 0
 total_tokens = 0
 
-def transliterate(en_tokens, sp_tokens, lower_sp):
+not_found = {}
+def transliterate(en_tokens, sp_tokens, en_sentence, sp_sentence, lower_sp):
   global found
   global total_tokens
+  global not_found
 
   final_tokens = []
+  para_solved = True
+  sentence_tokens = 0
+  sentence_found = 0
+
   for w in en_tokens:
     #print w
-    token = w
+    token = w.strip()
 
-    if (stopword(w)):
-      pass 
+    if (w.endswith(',') or w.endswith('.')):
+      w = w[:-1]
+
+    if (len(w) == 0):
+      continue
+
+    if (noise_token(w)):
+      continue 
     else:
-      total_tokens = total_tokens + 1    
+      total_tokens = total_tokens + 1
+      sentence_tokens = sentence_tokens + 1
  
     w_l = w.lower()
     found_mapping = False
@@ -130,7 +150,6 @@ def transliterate(en_tokens, sp_tokens, lower_sp):
         if c in lower_sp:
           #print "<SUITABLE TRANSLATION FOUND>"
           token = c
-          found = found + 1
           found_mapping = True
         else:
           pass
@@ -150,7 +169,6 @@ def transliterate(en_tokens, sp_tokens, lower_sp):
           if c in lower_sp_stem:
             #print "<SUITABLE TRANSLATION FOUND USING STEMMING>"
             token = lower_sp[lower_sp_stem.index(c)]
-            found = found + 1
             found_mapping = True
           else:
             pass
@@ -158,12 +176,26 @@ def transliterate(en_tokens, sp_tokens, lower_sp):
       else:
         pass
         #print "Not in dictionary"
-   
+     
+    if (found_mapping):
+      found = found + 1
+      sentence_found = sentence_found + 1
+    else:
+      if (w_l in lower_sp):
+        found = found + 1
+        sentence_found = sentence_found + 1
+      else:
+        para_solved = False
+        if (not w_l in not_found):
+          not_found[w_l] = 1
+        else:
+          not_found[w_l] = not_found[w_l] + 1
+ 
     if (w[0].isupper()):
       token = token.capitalize()
  
     final_tokens.append(token)
-  return ' '.join(final_tokens)
+  return (' '.join(final_tokens), para_solved, sentence_found, sentence_tokens)
 
 import nltk
 
@@ -176,28 +208,24 @@ def transliterate_all(en_para, sp_para, idx):
 
   lower_sp = [w.lower() for w in sp_tokens]
 
-  #print en_tokens
-  #print ""
-  #print sp_tokens
-  #print ""
+  (t, para_mapping, para_found, para_tokens) = transliterate(en_tokens, sp_tokens, para_en.lower(), para_sp.lower(), lower_sp)
+ 
+  if (1.0 * para_found / para_tokens < 0.1):
+    print "Rate: %.0f / %.0f -> %.2f" % (para_found, para_tokens, 100.0 * para_found / para_tokens)
+    print para_en.encode('utf-8')
+    print para_sp.encode('utf-8')
+    print ""
+    # apply some minor visual corrections
+    t = t.encode('utf-8')
+    t = t.replace(' .', '.')
+    t = t.replace(' ,', ',')
 
-  print para_en.encode('utf-8')
-  print ""
-  print para_sp.encode('utf-8')
-  print ""
-  t = transliterate(en_tokens, sp_tokens, lower_sp)
+    print t
+    print ""
+    print ""
 
-  # apply some minor visual corrections
-  t = t.encode('utf-8')
-  t = t.replace(' .', '.')
-  t = t.replace(' ,', ',')
-
-  print t
-  print ""
-  print ""
-
-def stopword(w):
-  if (w in ['.', ',', '``', ':', ';', '?', '!', '"', "''", '}', '{']):
+def noise_token(w):
+  if (w in ['.', ',', '``', ':', ';', '?', '!', '"', "''", "'", '}', '{', ')', '(', '-', '--']):
     return True
 
   if (re.match('^\d+$', w)):
@@ -209,7 +237,7 @@ def build_dict():
   def find_missing(en_tokens, sp_tokens, lower_sp):
     missing = []
     for w in en_tokens:
-      if (stopword(w)):
+      if (noise_token(w)):
         pass 
  
       w_l = w.lower()
@@ -255,11 +283,11 @@ def build_dict():
 
     missing = find_missing(en_tokens, sp_tokens, lower_sp)
     for en in set(missing):
-      if stopword(en):
+      if noise_token(en):
         continue 
 
       for sp in set(lower_sp):
-        if stopword(sp):
+        if noise_token(sp):
           continue
         
         key = en + '_' + sp
@@ -296,3 +324,6 @@ for idx in range(0, min(len(en_para), len(sp_para))):
   transliterate_all(en_para, sp_para, idx)
 
 print "Percent replaced: %.2f (%.0f, %.0f)" % (100 * found / total_tokens, found, total_tokens)
+
+for (k, v) in sorted(not_found.iteritems(), key=operator.itemgetter(1)):
+  print "%s: %.0f" % (k, v)
