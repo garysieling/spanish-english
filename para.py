@@ -103,6 +103,7 @@ read_dict('dict2.txt')
 read_dict('dict3.txt')
 read_dict('dict5.txt')
 read_dict('dict6.txt')
+read_dict('dict8.txt')
 
 _en_sp = open('_en_sp', 'w')
 _en_sp.write(unicode(en_sp))
@@ -209,8 +210,15 @@ def transliterate_all(en_para, sp_para, idx):
   lower_sp = [w.lower() for w in sp_tokens]
 
   (t, para_mapping, para_found, para_tokens) = transliterate(en_tokens, sp_tokens, para_en.lower(), para_sp.lower(), lower_sp)
- 
-  if (1.0 * para_found / para_tokens < 0.1):
+
+  found_missing = False
+  look_at = ['gatekeeper', 'consider', 'worshiped', 'follow', 'oldest', 'disobeys', 'simon', 'disciples', 'young', 'asking', 'arisen', 'under', 'women', 'worth', 'seized', 'parcel', 'advantage', 'sitting', 'print', 'accuse', 'advised', 'isaiah', 'continued', 'perceived', 'joined', 'leave', 'force', 'awake', 'yourself', 'sabbath', 'denarii', 'abroad', 'stands', 'advantageous', 'assembled', 'rhabbouni', 'learned', 'ever', 'forgive', 'observing', 'completely', 'accomplished', 'descended', 'salvation', 'hosanna', 'cloak', 'decrease', 'guests', 'few', 'live', 'fragrance', 'knows', 'holy', 'porch', 'brings', 'testified', 'retained', 'midst', 'hold', 'name:', 'account', 'metretes', 'embarked', 'believes', 'outran', 'gathers', 'murmuring', 'loosen', 'council', 'mixture', 'caused', 'court', 'winter', 'lame', 'rather', 'following', 'permission', 'shining', 'surpassed', 'lamp', 'pure', 'dared', 'speaks', 'beach', 'questioning', 'mother', 'law', 'revealed', 'capernaum', 'lifting', 'branches', 'waist', 'whenever', 'loud', 'sit', 'eats', 'bathed', 'or', 'began', 'interpretation', 'decide', 'toward', 'choose', 'held', 'already', 'looks', 'brim', 'existence', 'jacobs', 'bringing', 'torn', 'brook', 'better', 'maid', 'farmer', 'hidden', 'overcome', 'seeking', 'often', 'prunes', 'flee', 'bread', 'execute', 'hereafter', 'servant', 'tear', 'leaned', 'burial', 'doing', 'stooping', 'flock', 'tenth', 'blinded', 'special', 'shown', 'since', 'washed', 'testify', 'looking', 'lain', 'gardener', 'foundation', 'turning', 'commits', 'seventh', 'surely', 'worshipper', 'overtake', 'cured', 'prepare', 'rejects', 'keep', 'bridegroom', 'thing', 'expedient', 'retain', 'first', 'plainly', 'spoken', 'wash', 'open', 'sheep', 'twisted', 'needed', 'too', 'passed', 'john', 'fifty-three', 'sealed', 'cheer', 'part', 'feeds', 'porches', 'bride', 'determined', 'insulted', 'donkey', 'groaning', 'remained', 'ran', 'suspense', 'manner', 'recover', 'convicts', 'afraid', 'overthrew', 'self', 'able', 'rowed', 'enlightens', 'sure', 'risen', 'commanding', 'flow', 'yours', 'perceiving', 'donkeys', 'agreed', 'large', 'soldiers', 'find', 'ground', 'true', 'distributed', 'enough', 'defiled', 'treasury', 'colt', 'listened', 'beat', 'enters', 'rejoices', 'ones', 'hid', 'breast', 'altogether', 'during', 'reveal', 'showed', 'fields', 'insane', 'testing', 'relative', 'seal', 'draws', 'tend', 'written', 'finger', 'correctly', 'drawn', 'burned', 'counsel', 'lays', 'gives', 'men', 'crucified', 'precious', 'grieved', 'mans', 'reported', 'freely', 'invited', 'became', 'groaned', 'whole', 'point', 'legs', 'pot', 'withered', 'pruned', 'vessel', 'table', 'trust', 'withdrawn', 'olives', 'stretch', 'three', 'convicted', 'secret', 'cords', 'mary', 'lived', 'perplexed', 'offers', 'finished', 'lift', 'personally', 'fellow', 'homes', 'myself', 'save', 'publicly', 'sanctify', 'straight', 'taking', 'purifying', 'demon', 'hebrew', 'ready', 'happening', 'multitudes', 'containing', 'dishonor', 'cross', 'tells', 'stepped', 'used', 'booths', 'drink', 'upon', 'moving', 'supposing', 'warming', 'destruction', 'dark', 'bondage', 'makes', 'possessed', 'finds', 'sychar', 'without', 'greatest', 'dressed', 'drawing', 'stooped', 'rolled', 'aside', 'foot', 'world', 'sandal', 'cup', 'rose', 'drunk', 'arrest', 'belongs', 'crying', 'prison', 'struck', 'remaining', 'ought', 'zion', 'kills', 'read', 'possible', 'birth', 'bit', 'reap', 'name', 'lost', 'sincerely', 'serves', 'pavement', 'steps', 'officer', 'lose', 'whomever', 'heel', 'wonders', 'snatches', 'old', 'jews', 'authority', 'daylight', 'scatters', 'sight', 'perfected', 'delivered', 'paralyzed', 'oppression', 'forgiven', 'convict', 'temple', 'murderer', 'itself', 'sixth', 'trees', 'bury', 'urged', 'stand', 'act', 'tomb', 'basin', 'burning', 'anothers', 'son', 'jerusalem', 'stench', 'existed', 'beneath', 'exposed', 'peters', 'dispersion', 'pool', 'forward', 'golgotha', 'head', 'form', 'immorality', 'cloth', 'hail', 'trying', 'tossed', 'skull', 'until', 'stirring', 'educated', 'father-in-law', 'sheath', 'dragging', 'proceeds', 'fill', 'conspired', 'sexual', 'peace', 'evildoer', 'sick', 'sufficient', 'journey', 'earthly', 'else', 'thundered', 'together', 'glorify', 'apart', 'profits']
+  en_l = [w.lower() for w in en_tokens]
+  for w in look_at:
+    if (w in en_l):
+      found_missing = True
+
+  if (1.0 * para_found / para_tokens < 0.5 and found_missing):
     print "Rate: %.0f / %.0f -> %.2f" % (para_found, para_tokens, 100.0 * para_found / para_tokens)
     print para_en.encode('utf-8')
     print para_sp.encode('utf-8')
